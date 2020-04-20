@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: #fff;
+    height: 600px;
+    padding-top: 60;
+}
+
+.jumboBorder {
+    border-bottom: solid 10px;
+    border-top: solid 10px;
+    border-color: #006438;
+    border-radius: 0px;
+    height:600px;
+}
+
