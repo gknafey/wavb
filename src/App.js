@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Homepage from "./pages/Home";
 import NoMatch from "./pages/NoMatch";
-import logo from './logo.svg';
 import './App.css';
 import Nav from "./components/Nav";
 

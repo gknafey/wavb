@@ -9,27 +9,39 @@ function Nav() {
             <div className="border1">
                 <nav className="navbar">
                     <ul className="nav left">
-                        <li className="nav-item resize">
-                            <Link to="/" className="nav-item left link">Ingredients </Link>
-                        </li>
-                        <li className="nav-item resize">
-                            <Link to="/" className="nav-item left link">Nutritional Facts </Link>
-                        </li>
-                        <li className="nav-item resize">
-                            <Link to="/" className="nav-item left link">Cooking Instructions </Link>
-                        </li>
-                        <li className="nav-item">
+                        <Link to="/" className="nav-item left link">
+                            <li className="nav-item resize">
+                                Ingredients
+                            </li>
+                        </Link>
+                        <Link to="/" className="nav-item left link">
+                            <li className="nav-item resize">
+                                Nutritional Facts
+                            </li>
+                        </Link>
+                        <Link to="/" className="nav-item left link">
+                            <li className="nav-item resize">
+                                Cooking Instructions
+                            </li>
+                        </Link>
+                            <li className="nav-item">
                             <Link to="/" className="navbar-brand"> <img className="logo" alt="Logo Here" src={Logo}></img> </Link>
-                        </li>
-                        <li className="nav-item right0 resize">
-                            <Link to="/" className="nav-item link">Home </Link>
-                        </li>
-                        <li className="nav-item right resize">
-                            <Link to="/" className="nav-item link">Where to find us </Link>
-                        </li>
-                        <li className="nav-item right resize">
-                            <Link to="/" className="nav-item link">About Us </Link>
-                        </li>
+                            </li>
+                        <Link to="/" className="nav-item link">
+                            <li className="nav-item right0 resize">
+                                Home
+                            </li>
+                        </Link>
+                        <Link to="/" className="nav-item link">
+                            <li className="nav-item right resize">
+                                Where to find us
+                            </li>
+                        </Link>
+                        <Link to="/" className="nav-item link">
+                            <li className="nav-item right resize">
+                                About Us
+                            </li>
+                        </Link>
                     </ul>
                 </nav>
             </div>
