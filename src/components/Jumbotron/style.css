@@ -5,10 +5,20 @@
 }
 
 .jumboBorder {
-    border-bottom: solid 10px;
+     /* border-bottom: solid 10px;
     border-top: solid 10px;
-    border-color: #006438;
-    border-radius: 0px;
+    border-color: #006438; */
+    border-radius: 20px;  
     height:600px;
+}
+
+.jumboMain {
+    border-bottom: solid 8px;
+    border-top: solid 8px;
+    border-left: solid 4px;
+    border-right: solid 4px;
+    border-color: #006438;
+    background-color: #006438;
+    border-radius: 0px;
 }
 

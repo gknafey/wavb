@@ -12,6 +12,8 @@
     height: 160px;
     width: 100%;
     border-bottom: solid 10px black;
+    padding: 0px 16px 8px 16px;
+    border-top: solid 10px black;
 }
 .nav {
     width: 100%;  
@@ -19,6 +21,7 @@
 
 .border0 {
     border-bottom: solid 10px #4e018d;
+    
 }
 
 .border1 {
@@ -30,12 +33,13 @@
     font-size: 22px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-right: 2%;
-    margin-top: 1%;
+    margin-top: .5%;
     max-height: 100px;
 }
 
 .link:hover {
     color: #f58a00;
+    text-decoration: none;
 }
 
 .resize {

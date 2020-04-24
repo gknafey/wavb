@@ -1,0 +1,28 @@
+.mainBurger {
+    width: 80%;
+    border: solid 10px black;
+    border-radius: 10px;
+    margin: 1%;
+}
+
+.window {
+    background-color: #e5e3db;
+    border: solid 8px #006438;
+    border-radius: 20px;
+    
+}
+
+.mainTitle {
+    color: #4e018d;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.mainInfo {
+    color: #4e018d;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -80px;
+}
