@@ -19,10 +19,10 @@ function Main() {
                         <p className="mainTitle">What we are all about</p>
                         <p className="mainInfo">
 
-                                Hi my name is Will Pough.  I make all Natural Vegan burgers with vast amounts of benefits and hold 
-                            my burgers to high standards.  They are made with ingredients that you can pronounce and identify. You 
-                            will find my burgers have an absence of food coloring, GMO's, or speaking plainly, they have NO Artificial
-                             Anything...! What they do have are quality ingredients which hinges all the amazing aspects into the name 
+                                Hi my name is Will Pough.  I make all Natural Vegan burgers which have vast amounts of health benefits. I hold 
+                            my burgers to high standards and they are made with ingredients that you can pronounce and identify. You 
+                            will find my burgers have an absence of food coloring and GMO's.  Speaking plainly, they have NO Artificial
+                             Anything! What they do have are quality ingredients, which when brought together truly makes them 
                             "Will's Amazing Vegan Burgers". 
                             
                         </p>
