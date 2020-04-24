@@ -1,0 +1,71 @@
+.quadrantBurgers {
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    border: solid 4px black;
+    border-radius: 10px;
+}
+
+.quadrantBurgers:hover {
+    border-top: solid 4px black;
+    border-left: solid 4px black;
+    border-bottom: solid 14px black;
+    border-right: solid 12px black;
+    
+}
+
+.poached {
+    margin-left: 20%;
+    margin-top: 3%;
+}
+
+.slider {
+    margin-left: 20%; 
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.poppers {
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+
+.thai {
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.window2 {
+    border-top: solid 10px #4e018d;
+    background-color: #fff;
+    margin-top: 0px;
+    
+}
+
+.window3 {
+    border-top: solid 10px #fdb400;
+}
+
+.window4 {
+    border-top: solid 10px black;
+    background-color: #006438;
+}
+
+.window5 {
+    border-top: solid 8px #006438;
+    border-right: solid 4px #006438;
+    border-bottom: solid 8px #006438;
+    border-left: solid 4px #006438;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.window6 {
+    border: solid 10px #006438;
+    background-color: #e5e3db;
+    border-radius: 20px;
+    margin: 1.5%;
+}
+

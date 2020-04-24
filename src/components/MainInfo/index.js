@@ -16,7 +16,7 @@ function Main() {
 
                     </Col>
                     <Col size="md-6">
-                        <p className="mainTitle">What we are all about</p>
+                        <p className="mainTitle">Will's Amazing Vegan Burgers</p>
                         <p className="mainInfo">
 
                                 Hi my name is Will Pough.  I make all Natural Vegan burgers which have vast amounts of health benefits. I hold 
