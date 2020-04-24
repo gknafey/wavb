@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Jumbotron from "../components/Jumbotron";
-import Table from "../images/Edited_Table_Purple_in_progress.png";
+// import Table from "../images/Edited_Table_Purple_in_progress.png";
 
 class Homepage extends Component {
     state = {

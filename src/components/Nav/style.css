@@ -43,18 +43,18 @@
     height: 100px;
     padding: 10%;
     text-align: center;
-    border-left: solid 5px #c1d6ad;
-    border-right: solid 5px #c1d6ad;
-    border-bottom: solid 5px #c1d6ad;
+    border-left: solid 3px black;
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
 
 .resize:hover {
-    border-left: solid 6px black;
+    border-left: solid 4px black;
     border-right: solid 7px black;
     border-bottom: solid 8px black;
-    padding-left: 5px;
+    padding-left: 10px;
 }
 
 
@@ -63,7 +63,7 @@
 }
 
 .right0 {
-    margin-left: 0%;
+    margin-left: 1%;
 }
 
 .left {

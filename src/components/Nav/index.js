@@ -27,8 +27,8 @@ function Nav() {
                             <li className="nav-item">
                             <Link to="/" className="navbar-brand"> <img className="logo" alt="Logo Here" src={Logo}></img> </Link>
                             </li>
-                        <Link to="/" className="nav-item link">
-                            <li className="nav-item right0 resize">
+                        <Link to="/" className="nav-item link right0">
+                            <li className="nav-item resize">
                                 Home
                             </li>
                         </Link>
