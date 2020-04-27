@@ -1,0 +1,20 @@
+.main2Title {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    height: 150px;
+    background-color: #e5e3db;
+    margin-bottom: 0px;
+    color: #4e018d;
+    border-top: solid 10px black;
+    border-bottom: solid 10px black;
+    padding-top: 1.5%;
+}
+
+.main2Border {
+    border-top: solid 10px #fdb400;
+}
+
+.main2Border2 {
+    border-top: solid 10px #4e018d;
+}

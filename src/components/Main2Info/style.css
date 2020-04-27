@@ -38,18 +38,18 @@
 }
 
 .window2 {
-    border-top: solid 10px #4e018d;
+    border-top: solid 10px #fdb400;
     background-color: #fff;
     margin-top: 0px;
     
 }
 
 .window3 {
-    border-top: solid 10px #fdb400;
+    border-top: solid 10px #4e018d;
 }
 
 .window4 {
-    border-top: solid 10px black;
+    /* border-top: solid 10px black; */
     background-color: #006438;
 }
 
