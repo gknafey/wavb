@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63398439.chunk.css",
+    "main.js": "/static/js/main.304cfa86.chunk.js",
+    "main.js.map": "/static/js/main.304cfa86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6808c349.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6808c349.js.map",
+    "static/js/2.158a4c88.chunk.js": "/static/js/2.158a4c88.chunk.js",
+    "static/js/2.158a4c88.chunk.js.map": "/static/js/2.158a4c88.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.25d924b2ef7c325bf7bfe41ed11e67ee.js": "/precache-manifest.25d924b2ef7c325bf7bfe41ed11e67ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.63398439.chunk.css.map": "/static/css/main.63398439.chunk.css.map",
+    "static/js/2.158a4c88.chunk.js.LICENSE.txt": "/static/js/2.158a4c88.chunk.js.LICENSE.txt",
+    "static/media/BurgerNice.JPG": "/static/media/BurgerNice.f29b35f2.JPG",
+    "static/media/PoachedEggPlateB.JPG": "/static/media/PoachedEggPlateB.3fd33eb3.JPG",
+    "static/media/PoppersPlateB.JPG": "/static/media/PoppersPlateB.0739eced.JPG",
+    "static/media/SliderPlateB.JPG": "/static/media/SliderPlateB.d97e28d9.JPG",
+    "static/media/ThaiPlateB.JPG": "/static/media/ThaiPlateB.5139a6ad.JPG",
+    "static/media/WillsLogo.jpg": "/static/media/WillsLogo.59072c97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6808c349.js",
+    "static/js/2.158a4c88.chunk.js",
+    "static/css/main.63398439.chunk.css",
+    "static/js/main.304cfa86.chunk.js"
+  ]
+}
