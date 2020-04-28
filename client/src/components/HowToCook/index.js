@@ -2,6 +2,10 @@ import React from "react";
 import { Col, Row, Container } from "../Grid";
 import Burger from "../../images/BurgerNice.JPG";
 import { HashLink as Link } from "react-router-hash-link";
+import PoachedEggB1 from "../../images/PoachedEggPlateB.JPG";
+import PoppersB2 from "../../images/PoppersPlateB.JPG";
+import SliderB3 from "../../images/SliderPlateB.JPG";
+import ThaiB4 from "../../images/ThaiPlateB.JPG";
 import "./style.css";
 
 function HowToCook() {
@@ -23,7 +27,26 @@ function HowToCook() {
                             <Link to="/CookingInstructions#microwaving" className="nav-item left quickLinks"> Microwave </Link>
                         </span>
                         <div className="divider0-2"></div>
+                        
                     </div>
+
+                    <div className="windowQuickRecipes">
+                        <p className="howToCookTitleQuick"> Recipe Quick Links: </p>
+                        <span>
+                            <Link to="/CookingInstructions#poachedEggPlate" className="nav-item left quickLinks"> Poached Egg Plate </Link>
+                            <span className="quickDivider">|</span>
+                            <Link to="/CookingInstructions#poppersPlate" className="nav-item left quickLinks"> Poppers Plate</Link> 
+                            <span className="quickDivider">|</span>
+                            <Link to="/CookingInstructions#sliderPlate" className="nav-item left quickLinks"> Sliders Plate </Link>
+                            <span className="quickDivider">|</span>
+                            <Link to="/CookingInstructions#thaiPlate" className="nav-item left quickLinks"> Thai Plate </Link>
+                    
+                        </span>
+                        <div className="divider0-2"></div>
+                        
+                    </div>
+
+                    
 
                 </Container>
             </div>
@@ -41,7 +64,7 @@ function HowToCook() {
                         <Col size="md-7">
                             <p className="aboutUsTitle2">Sautéing: Option A</p>
                             <p className="aboutUsInfo">
-                                <pre></pre>
+                                <br></br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 Sauté on medium to low heat using a non-stick pan, add 3/4 tablespoon
                                  of oil for each side, and cook for 3-4 minutes per side.
@@ -64,7 +87,7 @@ function HowToCook() {
                         <Col size="md-7">
                             <p className="howToCookTitle">Sautéing: Option B</p>
                             <p className="howToCookInfo">
-                                <pre></pre>
+                                <br></br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 Sauté on medium to low heat using a non-stick pan, add 3/4 tablespoon
                                 of oil for each side, cook for 3 minutes, then turn over, place in a
@@ -99,7 +122,7 @@ function HowToCook() {
                         <Col size="md-7">
                             <p className="aboutUsTitle2">Grilling:</p>
                             <p className="aboutUsInfo">
-                                <pre></pre>
+                                <br></br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 Apply a tablespoon of oil on both sides, place the burger off center
                                 on the grill.  Sear on one side for 3-4 minutes.  Then turn over the
@@ -119,7 +142,7 @@ function HowToCook() {
                         <Col size="md-7">
                             <p className="howToCookTitle">Boiling:</p>
                             <p className="howToCookInfo">
-                                <pre></pre>
+                                <br></br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 Place the unopened BPA-Free bag in boiling water and cover for 10 minutes.
                                 <br></br>
@@ -153,7 +176,7 @@ function HowToCook() {
                         <Col size="md-7">
                             <p className="aboutUsTitle2">Microwave:</p>
                             <p className="aboutUsInfo">
-                                <pre></pre>
+                                <br></br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 Microwave for 2 minutes in its BPA-free Bag. &nbsp; ( Remove Carefully )
                                 <br></br>
@@ -176,6 +199,108 @@ function HowToCook() {
                         </Col>
                     </Row>
 
+
+                </div>
+
+            </Container>
+
+            <Container fluid>
+                <div className="windowRecipes">
+                    <p id="sectionOne" className="aboutUsTitle">Our Amazing Recipes</p>
+                    <p id="poachedEggPlate" className="cookingInstructionsWarning">( Cook Frozen Do Not Defrost )</p>
+                    <br></br>
+                    <Row >
+                        <Col size="md-4">
+
+                            <img className="AboutUsFoto" alt="Burger Img Here" src={PoachedEggB1}></img>
+
+                        </Col>
+                        <Col size="md-7">
+                            <p className="aboutUsTitle2">Poached Egg Plate</p>
+                            <p className="aboutUsInfo">
+                                Description:
+                                <br></br><br></br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                Poached egg over burger on a bed of arugula with pesto, pine nuts, feta, and cranberries.
+                        
+                        </p>
+                        </Col>
+                    </Row>
+                    <div className="divider0-1">
+
+                    </div>
+                    <div id="poppersPlate" className="divider0">
+
+                    </div>
+                    <Row >
+                        <Col size="md-7">
+                            <p className="howToCookTitle">Poppers Plate</p>
+                            <p className="howToCookInfo">
+                                Description:
+                                <br></br><br></br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                Poppers over a veggie plater with a dipping sauce of your choice.
+
+                        </p>
+                        </Col>
+
+                        <Col size="md-4">
+
+                            <img className="howToCookFoto" alt="Burger Img Here" src={PoppersB2}></img>
+
+                        </Col>
+                    </Row>
+
+                    <div className="divider0-1">
+
+                    </div>
+                    <div id="sliderPlate" className="divider0">
+
+                    </div>
+
+                    <Row >
+                        <Col size="md-4">
+
+                            <img className="AboutUsFoto" alt="Burger Img Here" src={SliderB3}></img>
+
+                        </Col>
+                        <Col size="md-7">
+                            <p className="aboutUsTitle2">Slider Plate</p>
+                            <p className="aboutUsInfo">
+                                Description:
+                                <br></br><br></br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                Sliders served with lemon wedges and a sauce of your choice.
+                        </p>
+                        </Col>
+                    </Row>
+
+                    <div className="divider0-1">
+
+                    </div>
+                    <div id="thaiPlate" className="divider0">
+
+                    </div>
+
+                    <Row >
+                        <Col size="md-7">
+                            <p className="howToCookTitle">Thai Plate</p>
+                            <p className="howToCookInfo">
+                                Description:
+                                <br></br><br></br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                Burger over Thai noodles, Brussels sprouts, eggplant, and okra with a 
+                                watermelon radish  &#38; ginger relish.
+
+                        </p>
+                        </Col>
+
+                        <Col size="md-4">
+
+                            <img className="howToCookFoto" alt="Burger Img Here" src={ThaiB4}></img>
+
+                        </Col>
+                    </Row>
 
                 </div>
 

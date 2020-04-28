@@ -18,7 +18,7 @@ function Footer() {
                         
                         <div className="col-md-3 mt-md-0 mt-3">
                             
-                            <Link to="/" className="navbar-brand"> <img className="logoFooter" alt="Logo Here" src={Logo}></img> </Link>
+                            <Link to="/#sectionZero" className="navbar-brand"> <img className="logoFooter" alt="Logo Here" src={Logo}></img> </Link>
                             
                             
 
@@ -49,13 +49,13 @@ function Footer() {
                                         <Link to="/#sectionZero" className="nav-item left footerLinks"> Home</Link>
                                     </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Where to find us</Link>
+                                        <Link to="/WhereToFindUs#sectionZero" className="nav-item left footerLinks"> Where to find us</Link>
                                     </li>
                                     <li>
                                         <Link to="/AboutUs#sectionZero" className="nav-item left footerLinks"> About Us</Link>
                                     </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Ingredients</Link>
+                                        <Link to="/Ingredients#sectionZero" className="nav-item left footerLinks"> Ingredients</Link>
                                     </li>
                                     <li>
                                         <Link to="/NutritionalFacts#sectionZero" className="nav-item left footerLinks"> Nutritional Facts</Link>

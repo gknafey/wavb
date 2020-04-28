@@ -69,3 +69,26 @@
     margin: 1.5%;
 }
 
+.clickImagesBelow {
+    color: #4e018d;
+    font-size: 40px;
+    /* font-style: italic; */
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+    margin-left: 4%;
+    margin-top: 1.5%;
+}
+
+.clickImagesBelowSection {
+    margin-bottom: 2%;
+}
+
+.windowClickBelow {
+    background-color: #e5e3db;
+    border: solid 8px #006438;
+    border-radius: 20px;
+    width: 97%;
+    margin: 2% auto 0 auto;
+
+}

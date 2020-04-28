@@ -8,6 +8,8 @@ import Footer from "./components/Footer";
 import AboutUs from "./pages/AboutUs";
 import Cooking from "./pages/Cooking";
 import Nutrition from './pages/NutritionalFacts';
+import Ingredients from './pages/Ingredients';
+import WhereToFindUs from './pages/WhereToFindUs';
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
         <Route exact path="/AboutUs" component={AboutUs} />
         <Route exact path="/CookingInstructions" component={Cooking} />
         <Route exact path="/NutritionalFacts" component={Nutrition} />
+        <Route exact path="/Ingredients" component={Ingredients} />
+        <Route exact path="/WhereToFindUs" component={WhereToFindUs} />
         <Route component={NoMatch} />
       </Switch>
       <Footer />

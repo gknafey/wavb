@@ -9,7 +9,7 @@ function Nav() {
             <div className="border1">
                 <nav className="navbar">
                     <ul className="nav left">
-                        <Link to="/" className="nav-item left link">
+                        <Link to="/Ingredients" className="nav-item left link">
                             <li className="nav-item resize">
                                 Ingredients
                             </li>
@@ -32,7 +32,7 @@ function Nav() {
                                 Home
                             </li>
                         </Link>
-                        <Link to="/" className="nav-item link">
+                        <Link to="/WhereToFindUs" className="nav-item link">
                             <li className="nav-item right resize">
                                 Where to find us
                             </li>
