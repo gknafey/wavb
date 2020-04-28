@@ -1,0 +1,50 @@
+.footerColor {
+    background-color: #e5e3db;
+    border-top: solid 10px black;
+}
+
+.logoFooter {
+    width: 300px;
+    height: 180px;
+    padding: 1.5%;
+    border-radius: 35%;
+    border: solid 10px black; 
+    background-color: #fff;
+    margin-left: 25%;
+   
+}
+
+.textFooter {
+    font-size: 20px;
+    color: #4e018d;
+    font-weight: bold;
+    padding-top: 10%;
+    padding-right: 14%;
+}
+
+.footerBorder0 {
+    border-top: solid 10px #fdb400;
+}
+
+.footerBorder1 {
+    border-top: solid 10px #4e018d;
+}
+
+.footerLinks {
+    color: #4e018d;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 2%;
+    margin-top: .5%;
+    max-height: 100px;
+}
+
+.footerLinks:hover {
+    color: #f58a00;
+}
+
+.linkTitle0 {
+    font-weight: bolder;
+    color: black;
+    font-size: 25px;
+}
