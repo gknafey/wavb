@@ -8,7 +8,7 @@ function AboutUsInfo() {
         <div>
         <Container fluid>
             <div className="window">
-            <p className="aboutUsTitle">About Us</p>
+            <p id="sectionOne" className="aboutUsTitle">About Us</p>
             <br></br>
                 <Row >
                     <Col size="md-4">

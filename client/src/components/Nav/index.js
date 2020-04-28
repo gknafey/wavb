@@ -5,7 +5,7 @@ import Logo from "../../images/WillsLogo.jpg";
 
 function Nav() {
     return (
-        <div className="border0">
+        <div id="sectionZero" className="border0">
             <div className="border1">
                 <nav className="navbar">
                     <ul className="nav left">
@@ -19,7 +19,7 @@ function Nav() {
                                 Nutritional Facts
                             </li>
                         </Link>
-                        <Link to="/" className="nav-item left link">
+                        <Link to="/CookingInstructions" className="nav-item left link">
                             <li className="nav-item resize">
                                 Cooking Instructions
                             </li>

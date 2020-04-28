@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { HashLink as Link } from "react-router-hash-link";
 import "./style.css";
 import Logo from "../../images/WillsLogo.jpg";
 
@@ -46,13 +46,13 @@ function Footer() {
 
                                 <ul className="list-unstyled">
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Home</Link>
+                                        <Link to="/#sectionZero" className="nav-item left footerLinks"> Home</Link>
                                     </li>
                                     <li>
                                         <Link to="/" className="nav-item left footerLinks"> Where to find us</Link>
                                     </li>
                                     <li>
-                                        <Link to="/AboutUs" className="nav-item left footerLinks"> About Us</Link>
+                                        <Link to="/AboutUs#sectionZero" className="nav-item left footerLinks"> About Us</Link>
                                     </li>
                                     <li>
                                         <Link to="/" className="nav-item left footerLinks"> Ingredients</Link>
@@ -61,7 +61,7 @@ function Footer() {
                                         <Link to="/" className="nav-item left footerLinks"> Nutritional Facts</Link>
                                     </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Cooking Instructions</Link>
+                                        <Link to="/CookingInstructions#sectionZero" className="nav-item left footerLinks"> Cooking Instructions</Link>
                                     </li>
                                 </ul>
 
