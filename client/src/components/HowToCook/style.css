@@ -1,0 +1,83 @@
+.cookingInstructionsWarning {
+    
+        color: #4e018d;
+        font-size: 35px;
+        font-style: italic;
+        font-weight: bolder;
+        text-decoration: underline;
+    
+}
+
+.howToCookFoto {
+    width: 80%;
+    margin: 2%;
+    border: solid 10px black;
+    border-radius: 20px;
+}
+
+.howToCookTitle {
+    color: #4e018d;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: 10%;
+    text-decoration: underline;
+    margin-top: 2%;
+}
+
+.howToCookTitleQuick {
+    color: #4e018d;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: left;
+    margin-left: 4%;
+}
+
+.quickLinks {
+    color: #4e018d;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 1%;
+    margin-top: .5%;
+    max-height: 100px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.quickLinks:hover {
+    color: #f58a00;
+}
+
+.quickDivider {
+    color: #006438;
+    font-size: 30px;
+}
+
+.howToCookQuick {
+    margin-bottom: 2%;
+}
+
+.howToCookInfo {
+    color: #4e018d;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 70px;
+}
+
+.divider0 {
+    border-top: solid 3px #006438;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.divider0-1 {
+    padding-bottom: 3%;
+}
+
+.divider0-2 {
+    padding-bottom: 2%;
+}
