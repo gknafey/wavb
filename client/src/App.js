@@ -5,6 +5,7 @@ import NoMatch from "./pages/NoMatch";
 import './App.css';
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
+import AboutUs from "./pages/AboutUs";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Nav />
       <Switch>
         <Route exact path="/" component={Homepage} />
+        <Route exact path="/AboutUs" component={AboutUs} />
         <Route component={NoMatch} />
       </Switch>
       <Footer />

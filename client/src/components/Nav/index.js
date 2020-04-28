@@ -37,7 +37,7 @@ function Nav() {
                                 Where to find us
                             </li>
                         </Link>
-                        <Link to="/" className="nav-item link">
+                        <Link to="/AboutUs" className="nav-item link">
                             <li className="nav-item right resize">
                                 About Us
                             </li>

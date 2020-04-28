@@ -5,7 +5,6 @@ import Jumbotron from "../components/Jumbotron";
 import TitleMain2 from "../components/TitleMain2"
 
 
-
 class Homepage extends Component {
   state = {
 
