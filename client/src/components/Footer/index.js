@@ -58,7 +58,7 @@ function Footer() {
                                         <Link to="/" className="nav-item left footerLinks"> Ingredients</Link>
                                     </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Nutritional Facts</Link>
+                                        <Link to="/NutritionalFacts#sectionZero" className="nav-item left footerLinks"> Nutritional Facts</Link>
                                     </li>
                                     <li>
                                         <Link to="/CookingInstructions#sectionZero" className="nav-item left footerLinks"> Cooking Instructions</Link>

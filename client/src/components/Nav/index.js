@@ -14,7 +14,7 @@ function Nav() {
                                 Ingredients
                             </li>
                         </Link>
-                        <Link to="/" className="nav-item left link">
+                        <Link to="/NutritionalFacts" className="nav-item left link">
                             <li className="nav-item resize">
                                 Nutritional Facts
                             </li>

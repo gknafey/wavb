@@ -7,6 +7,7 @@ import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import AboutUs from "./pages/AboutUs";
 import Cooking from "./pages/Cooking";
+import Nutrition from './pages/NutritionalFacts';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route exact path="/" component={Homepage} />
         <Route exact path="/AboutUs" component={AboutUs} />
         <Route exact path="/CookingInstructions" component={Cooking} />
+        <Route exact path="/NutritionalFacts" component={Nutrition} />
         <Route component={NoMatch} />
       </Switch>
       <Footer />
