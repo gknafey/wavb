@@ -59,7 +59,7 @@ function AboutUsInfo() {
         </Container>
 
 <Container fluid>
-<div className="window2">
+<div className="aboutUsWindow">
 <p className="aboutUsTitle3">Humble Beginnings</p>
 <br></br>
     <Row >

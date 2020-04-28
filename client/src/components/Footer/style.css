@@ -15,7 +15,7 @@
 }
 
 .textFooter {
-    font-size: 20px;
+    font-size: 24px;
     color: #4e018d;
     font-weight: bold;
     padding-top: 10%;
@@ -37,6 +37,7 @@
     margin-right: 2%;
     margin-top: .5%;
     max-height: 100px;
+    font-weight: bold;
 }
 
 .footerLinks:hover {

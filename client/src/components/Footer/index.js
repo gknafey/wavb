@@ -52,7 +52,7 @@ function Footer() {
                                         <Link to="/" className="nav-item left footerLinks"> Where to find us</Link>
                                     </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> About Us</Link>
+                                        <Link to="/AboutUs" className="nav-item left footerLinks"> About Us</Link>
                                     </li>
                                     <li>
                                         <Link to="/" className="nav-item left footerLinks"> Ingredients</Link>
