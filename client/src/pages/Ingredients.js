@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Jumbotron from "../components/Jumbotron";
-
+import IngredientsInfo from "../components/IngredientsInfo";
 
 class Ingredients extends Component {
     state = {
@@ -13,7 +13,7 @@ class Ingredients extends Component {
             
                 <Jumbotron>
 
-                    <h1>Ingredients Listed Here</h1>
+                    <IngredientsInfo />
                 
                 </Jumbotron>
             

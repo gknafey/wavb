@@ -24,8 +24,6 @@
 .aboutUsTitle {
     color: #4e018d;
     font-size: 55px;
-    /* font-style: italic; */
-    /* text-decoration: underline; */
     font-weight: bolder;
     margin-top: 2%;
 }
@@ -63,4 +61,11 @@
     border: solid 8px #006438;
     border-radius: 20px;
     
+}
+
+.specialThanksInfo {
+    color: #4e018d;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
 }

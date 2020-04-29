@@ -19,7 +19,7 @@ function AboutUsInfo() {
                     <Col size="md-7">
                         <p className="aboutUsTitle2">About the Chef</p>
                         <p className="aboutUsInfo">
-                                <pre></pre>
+                           
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 I graduated from the French Culinary Institute in New York City
                                 in the late 1980s.  As a young African-American male the 'hood'
@@ -30,7 +30,7 @@ function AboutUsInfo() {
                                 my early years.  But the speed and organizational skills I mastered 
                                 back in those years stayed with me and have been put to good use. 
                                 <br></br>
-                                <pre></pre>
+                                
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 My first job out of culinary school was cooking at the Sea Grill.  
                                 Located in the world famous Rockefeller Center in NYC, a fast paced 
@@ -81,7 +81,7 @@ function AboutUsInfo() {
                     positive feedback, including from a bunch of non-vegetable eating 
                     teenage boys!  I was pleasantly surprised and felt I was on to something.  
                     <br></br>
-                    <pre></pre>
+                  
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     It is funny how the whole opportunity came about.  One young man there at 
                     the boys home was a vegetarian and the meatless meals there were... well, 
@@ -93,7 +93,7 @@ function AboutUsInfo() {
                     roasted vegetables.  Sautéed cauliflower with scallions and fresh lemon 
                     juice, topped with cheese.  This was my way of saying thank you. 
                     <br></br>
-                    <pre></pre>
+                
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     After a 
                     while those special dishes became time consuming, considering I had an 
@@ -113,6 +113,118 @@ function AboutUsInfo() {
 
         </Col>
     </Row>
+</div>
+
+</Container>
+
+<Container fluid>
+<div className="aboutUsWindow">
+<p className="aboutUsTitle3">Special Thanks</p>
+<br></br>
+    <Row >
+
+        <Col size="md-2"></Col>
+
+        <Col size="md-8">
+            
+            <p className="specialThanksInfo">
+
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    First, I want to thank my God, life has shown me many things but this 
+                    scripture helped me to learn and grow in my walk with God.  
+                    <br></br>
+                    <br></br>
+
+                    Proverbs 3:5-6 (King James Version)<br></br>
+                    Trust in the LORD with all thine heart; and lean not unto thine own 
+                    understanding.  In all thy ways acknowledge him, and he shall direct 
+                    thy paths.
+                    <br></br>
+                    <br></br>
+
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    These words are simple to understand but not always easy to accomplish.  
+                    The more I got tired of banging my head and realizing my ways from his.  
+                    The more I started trusting God the more I saw this proverb come to life 
+                    in many ways.  It's a relationship that happens when one stands faithfully 
+                    with believing.  To all New Jersyans and whoever else, I'm grateful to make 
+                    these vegan burgers available.  
+                    <br></br>
+                    <br></br>
+                   
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Second, I need to thank a whole host of family and friends who helped me.  
+                    The following were directly involved in this project of love and life quest.
+                    <br></br>
+                    <br></br>
+                    <ul>
+                        <li>
+                            Helen Gocher: What a great job in editing and turning two voices into one.
+                        </li>
+                        <li>
+                            Brian Gocher: Helped with designs and brochures and labels.
+                        </li>
+                        <li>
+                            Jason Manuel: A gracious rock of a friend, who hosted my first 
+                            vegan burger kick-off dinner party and always pointed me in a 
+                            heavenly direction.
+                        </li>
+                        <li>
+                            Lazarus Baptiste: A planet in my solar system, who took pro-quality 
+                            photos of my burgers at that dinner party, as well as help me develop 
+                            a positive believer image.
+                        </li>
+                        <li>
+                            Pollyn Horvath: Designed the logo that I don't have to think twice about.
+                        </li>
+                        <li>
+                             Eddie Her: Who blesses me with great book keeping advice. 
+                        </li>
+                        <li>
+                             My Family: My brother Duane, my sisters, Cheryl and Vickie(who passed away), 
+                             Yuri, Dennis, and Bobby.  They encouraged me through good times and bad.
+                        </li>
+                        <li>
+                             Pastor Rich: A man for whom I'm grateful for, who extended patience with a 
+                             private kitchen to help me get this business off the ground.
+                        </li>
+                        <li>
+                             Hunterdon Land Trust Farmers Market(and other organic farmers): Vendors 
+                             and venues that I work(ed) with and taught me more than I ever expected.
+                        </li>
+                        <li>
+                             Ironbound Hard Cider in Asbury NJ: Who thought me garter scents of community.
+                        </li>
+                        <li>
+                             NJ Veg Fast: A great venue in featuring organic products.
+                        </li>
+                    </ul>
+                    <br></br>
+                    <br></br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Third, I'm thankful for all those believers who helped by praying (it worked!), 
+                    and working with me, as my taste-testers/guinea pigs who help shape the final product.  
+                    There valuable opinions gave me plenty to consider.  
+                    <br></br>
+                    <br></br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Last, and certainly not least, I thank Maria, my wife, for standing by through 
+                    the ups and downs and for keeping our boys blessed and in order and helping me with 
+                    mountains of paperwork.
+                    <br></br>
+                    <br></br>
+                    Love you all and Thank you,
+                    <br></br>
+                    <br></br>
+                    Chef/Proprietor
+                    <br></br>
+                    Will Pough
+                    
+            
+            </p>
+        </Col>
+    </Row>
+    
 </div>
 
 </Container>

@@ -1,0 +1,22 @@
+.ingredientsListTitle {
+    color: #4e018d;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.ingredientsInfo {
+    color: #4e018d;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ingredientsListTitle2 {
+    color: #4e018d;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+}
