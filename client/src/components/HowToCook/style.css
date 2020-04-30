@@ -61,15 +61,6 @@
     font-weight: 500;
 }
 
-/* .windowClickBelow {
-    background-color: #e5e3db;
-    border: solid 8px #006438;
-    border-radius: 20px;
-    width: 97%;
-    margin: 2% auto 0 auto;
-
-} */
-
 .howToCookInfo {
     color: #4e018d;
     text-align: left;
@@ -105,4 +96,478 @@
     border: solid 8px #006438;
     border-radius: 20px;
     margin-top: 3%;
+}
+
+@media (max-width: 1025px) {
+    .cookingInstructionsWarning {
+        
+        font-size: 24px;
+    
+}
+
+.howToCookFoto {
+    width: 100%;
+    margin: 2%;
+    border: solid 5px black;
+    border-radius: 20px;
+}
+
+.howToCookTitle {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.howToCookQuick {
+    margin-bottom: 3%;
+}
+
+.howToCookTitleQuick {
+    font-size: 30px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 1.5%;
+}
+
+.quickLinks {
+    font-size: 20px;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.quickDivider {
+    color: #006438;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.howToCookInfo {
+    
+   
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.divider0 {
+    border-top: solid 3px #006438;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.divider0-1 {
+    padding-bottom: 3%;
+}
+
+.divider0-2 {
+    padding-bottom: 2%;
+}
+
+.windowRecipes {
+    border: solid 4px #006438;
+    margin-top: 2%;
+    width: 100%;
+    margin-left: 0%;
+}
+
+.windowQuickRecipes {
+    border: solid 4px #006438;
+    width: 100%;
+    margin-left: 0%;
+}
+}
+
+@media (max-width: 769px) {
+    .cookingInstructionsWarning {
+        
+        font-size: 24px;
+    
+}
+
+.howToCookFoto {
+    width: 100%;
+    margin: 2%;
+    border: solid 5px black;
+    border-radius: 20px;
+}
+
+.howToCookTitle {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.howToCookQuick {
+    margin-bottom: 3%;
+}
+
+.howToCookTitleQuick {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 1.5%;
+}
+
+.quickLinks {
+    font-size: 16px;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.quickDivider {
+    color: #006438;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.howToCookInfo {
+    
+   
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.divider0 {
+    border-top: solid 3px #006438;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.divider0-1 {
+    padding-bottom: 3%;
+}
+
+.divider0-2 {
+    padding-bottom: 2%;
+}
+
+.windowRecipes {
+    border: solid 4px #006438;
+    margin-top: 2%;
+    width: 108%;
+    margin-left: -4%;
+}
+
+.windowQuickRecipes {
+    border: solid 4px #006438;
+    width: 108%;
+    margin-left: -4%;
+}
+}
+
+@media (max-width: 415px) {
+    .cookingInstructionsWarning {
+        
+        font-size: 18px;
+    
+}
+
+.howToCookFoto {
+    display: none;
+}
+
+.howToCookTitle {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.howToCookQuick {
+    margin-bottom: 3%;
+}
+
+.howToCookTitleQuick {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 1.5%;
+}
+
+.quickLinks {
+    font-size: 16px;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.quickDivider {
+    color: #006438;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.howToCookInfo {
+    
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 0px;
+    font-size: 14px;
+}
+
+.divider0 {
+    border-top: solid 3px #006438;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.divider0-1 {
+    padding-bottom: 3%;
+}
+
+.divider0-2 {
+    padding-bottom: 2%;
+}
+
+.windowRecipes {
+    border: solid 4px #006438;
+    margin-top: 2%;
+    width: 113%;
+    margin-left: -7%;
+}
+
+.windowQuickRecipes {
+    border: solid 4px #006438;
+    width: 113%;
+    margin-left: -7%;
+}
+}
+
+@media (max-width: 376px) {
+    .cookingInstructionsWarning {
+        
+        font-size: 18px;
+    
+}
+
+.howToCookFoto {
+    display: none;
+}
+
+.howToCookTitle {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.howToCookQuick {
+    margin-bottom: 3%;
+}
+
+.howToCookTitleQuick {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 1.5%;
+}
+
+.quickLinks {
+    font-size: 16px;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.quickDivider {
+    color: #006438;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.howToCookInfo {
+    
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 0px;
+    font-size: 14px;
+}
+
+.divider0 {
+    border-top: solid 3px #006438;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.divider0-1 {
+    padding-bottom: 3%;
+}
+
+.divider0-2 {
+    padding-bottom: 2%;
+}
+
+.windowRecipes {
+    border: solid 4px #006438;
+    margin-top: 2%;
+    width: 118%;
+    margin-left: -9%;
+}
+
+.windowQuickRecipes {
+    border: solid 4px #006438;
+    width: 118%;
+    margin-left: -9%;
+}
+}
+
+@media (max-width: 361px) {
+    .cookingInstructionsWarning {
+        
+        font-size: 18px;
+    
+}
+
+.howToCookFoto {
+    display: none;
+}
+
+.howToCookTitle {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.howToCookQuick {
+    margin-bottom: 3%;
+}
+
+.howToCookTitleQuick {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 1.5%;
+}
+
+.quickLinks {
+    font-size: 16px;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.quickDivider {
+    color: #006438;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.howToCookInfo {
+    
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 0px;
+    font-size: 14px;
+}
+
+.divider0 {
+    border-top: solid 3px #006438;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.divider0-1 {
+    padding-bottom: 3%;
+}
+
+.divider0-2 {
+    padding-bottom: 2%;
+}
+
+.windowRecipes {
+    border: solid 4px #006438;
+    margin-top: 2%;
+    width: 118%;
+    margin-left: -9%;
+}
+
+.windowQuickRecipes {
+    border: solid 4px #006438;
+    width: 118%;
+    margin-left: -9%;
+}
+}
+
+@media (max-width: 321px) {
+    .cookingInstructionsWarning {
+        
+        font-size: 18px;
+    
+}
+
+.howToCookFoto {
+    display: none;
+}
+
+.howToCookTitle {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.howToCookQuick {
+    margin-bottom: 3%;
+}
+
+.howToCookTitleQuick {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 1.5%;
+}
+
+.quickLinks {
+    font-size: 16px;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.quickDivider {
+    color: #006438;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.howToCookInfo {
+    
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 0px;
+    font-size: 14px;
+}
+
+.divider0 {
+    border-top: solid 3px #006438;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.divider0-1 {
+    padding-bottom: 3%;
+}
+
+.divider0-2 {
+    padding-bottom: 2%;
+}
+
+.windowRecipes {
+    border: solid 4px #006438;
+    margin-top: 2%;
+    width: 118%;
+    margin-left: -9%;
+}
+
+.windowQuickRecipes {
+    border: solid 4px #006438;
+    width: 118%;
+    margin-left: -9%;
+}
 }
