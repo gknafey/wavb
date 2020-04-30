@@ -50,6 +50,33 @@
     font-size: 25px;
 }
 
+@media (max-width: 1367px) {
+    .logoFooter {
+        width: 300px;
+        height: 200px;
+        padding: 1.5%;
+        border-radius: 35%;
+        border: solid 10px black; 
+        background-color: #fff;
+        margin-left: 10px;
+       
+    }
+
+    .textFooter {
+        font-size: 20px;
+        padding-top: 10%;
+        padding-right: 0%;
+    }
+
+    .linkTitle0 {
+        font-size: 22px;
+    }
+
+    .footerLinks {
+        font-size: 18px;  
+    }
+}
+
 @media (max-width: 1025px) {
     .logoFooter {
         width: 230px;

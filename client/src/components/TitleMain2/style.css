@@ -19,6 +19,13 @@
     border-top: solid 10px #4e018d;
 }
 
+@media (max-width: 1367px) {
+    
+    .main2Title {
+        font-size: 35px;  
+    }
+}
+
 @media (max-width: 1025px) {
     
     .main2Title {

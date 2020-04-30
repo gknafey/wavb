@@ -28,6 +28,36 @@
     margin-left: -80px;
 }
 
+@media (max-width: 1367px) {
+    .window {
+        border: solid 6px #006438;
+        width: 100%;
+        margin-left: 0%;   
+    }
+
+    .mainBurger {
+        width: 90%;
+        border: solid 5px black;
+        margin: 2%;
+    }
+
+    .mainTitle {
+        font-size: 30px;
+        margin-left: -15%;
+    }
+
+    .mainInfo {
+        
+        text-align: left;
+        font-size: 22px;
+        padding: 20px;
+        
+        margin-left: -5%;
+    }
+
+
+}
+
 @media (max-width: 1025px) {
     .window {
         border: solid 5px #006438;
@@ -103,7 +133,7 @@
 
     .mainTitle {
         font-size: 30px;
-        margin-left: -15%;
+        margin-left: 0%;
     }
 
     .mainInfo {
