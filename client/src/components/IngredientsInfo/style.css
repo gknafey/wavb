@@ -20,3 +20,33 @@
     font-weight: bolder;
     text-decoration: underline;
 }
+
+@media (max-width: 769px) {
+    .ingredientsListTitle {
+        font-size: 30px;    
+    }
+    
+    .ingredientsInfo {
+        font-size: 20px;
+        padding: 15px;
+    }
+    
+    .ingredientsListTitle2 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 415px) {
+    .ingredientsListTitle {
+        font-size: 30px;    
+    }
+    
+    .ingredientsInfo {
+        font-size: 16px;
+        padding: 15px;
+    }
+    
+    .ingredientsListTitle2 {
+        font-size: 25px;
+    }
+}
