@@ -7,7 +7,7 @@ function IngredientsInfo() {
     return (
         <div>
             <Container fluid>
-            <div className="window">
+            <div className="window windowMob">
             <p id="sectionOne" className="aboutUsTitle">Ingredients Information</p>
             <br></br>
                 <Row >
