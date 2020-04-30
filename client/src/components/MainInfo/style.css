@@ -27,3 +27,31 @@
     font-weight: bold;
     margin-left: -80px;
 }
+
+@media (max-width: 321px) {
+    .window {
+        border: solid 4px #006438;
+        width: 295px;
+        margin-left: -9%;   
+    }
+
+    .mainBurger {
+        border: solid 5px black;
+        margin: 2%;
+    }
+
+    .mainTitle {
+        font-size: 25px;
+        margin-left: 0%;
+    }
+
+    .mainInfo {
+        
+        text-align: left;
+        font-size: 16px;
+        
+        margin: 15px;
+    }
+
+
+}

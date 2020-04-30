@@ -68,14 +68,14 @@
 }
 
 .right0 {
-    margin-left: 1%;
+    margin-left: 3.5%;
 }
 
 .left {
     margin-left: 1%;
 }
 
-@media (min-width: 200px) {
+@media (max-width: 321px) {
     .navbar {
         background-color: #e5e3db;
         height: 160px;
@@ -89,6 +89,10 @@
         margin-left: 0%;
         position: relative;
         left:-5px;
+    }
+
+    .right0 {
+        margin-left: 1%;
     }
 
     .resize {

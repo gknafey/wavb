@@ -18,3 +18,11 @@
 .main2Border2 {
     border-top: solid 10px #4e018d;
 }
+
+
+@media (max-width: 321px) {
+    
+    .main2Title {
+        font-size: 25px;  
+    }
+}
