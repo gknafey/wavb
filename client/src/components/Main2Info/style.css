@@ -93,6 +93,156 @@
 
 }
 
+@media (max-width: 1025px) {
+    
+    .windowClickBelow {
+        border: solid 5px #006438;
+        width: 94%;
+        margin: 2% auto 0 3%;
+        padding: 0 2% 0 2%;
+    }
+
+    .clickImagesBelow {
+        font-size: 30px;
+        margin-left: 0%;
+    }
+
+    .window6 {
+        border: solid 5px #006438;
+        width: 94%;
+        margin: 2% auto 4% 3%;
+    }
+    
+    .quadrantBurgers {
+        width: 430px;
+        height: 300px;
+        border: solid 2px black;
+    }
+
+    .poached {
+        margin-left: 4%;
+        margin-top: 3%;
+    }
+    
+    .slider {
+        margin-left: 4%; 
+        margin-top: 3%;
+        margin-bottom: 2%;
+    }
+    
+    .poppers {
+        margin-left: -1%;
+        margin-top: 3%;
+    }
+    
+    
+    .thai {
+        margin-left: -1%;
+        margin-top: 1%;
+        margin-bottom: 2%;
+    }
+}
+
+@media (max-width: 769px) {
+    
+    .windowClickBelow {
+        border: solid 3px #006438;
+        width: 99%;
+        margin: 2% auto 0 .5%;
+        padding: 0 2% 0 2%;
+    }
+
+    .clickImagesBelow {
+        font-size: 25px;
+        margin-left: 0%;
+    }
+
+    .window6 {
+        border: solid 3px #006438;
+        width: 99%;
+        margin: 2% auto 4% 0.5%;
+    }
+    
+    .quadrantBurgers {
+        width: 340px;
+        height: 250px;
+        border: solid 2px black;
+    }
+
+    .poached {
+        margin-left: 2%;
+        margin-top: 3%;
+    }
+    
+    .slider {
+        margin-left: 2%; 
+        margin-top: 3%;
+        margin-bottom: 2%;
+    }
+    
+    .poppers {
+        margin-left: -2%;
+        margin-top: 3%;
+    }
+    
+    
+    .thai {
+        margin-left: -2%;
+        margin-top: 1%;
+        margin-bottom: 2%;
+    }
+}
+
+@media (max-width: 415px) {
+    
+    .windowClickBelow {
+        border: solid 3px #006438;
+        width: 104%;
+        margin: 2% auto 0 -2%;
+        padding: 0 2% 0 2%;
+    }
+
+    .clickImagesBelow {
+        font-size: 18px;
+        margin-left: 0%;
+    }
+
+    .window6 {
+        border: solid 3px #006438;
+        width: 104%;
+        margin: 2% auto 4% -2%;
+    }
+    
+    .quadrantBurgers {
+        width: 370px;
+        height: 250px;
+        border: solid 2px black;
+    }
+
+    .poached {
+        margin-left: 1.5%;
+        margin-top: 3%;
+    }
+    
+    .slider {
+        margin-left: 1.5%; 
+        margin-top: 3%;
+        margin-bottom: 2%;
+    }
+    
+    .poppers {
+        margin-left: 1.5%;
+        margin-top: 3%;
+    }
+    
+    
+    .thai {
+        margin-left: 1.5%;
+        margin-top: 1%;
+        margin-bottom: 2%;
+    }
+}
+
 @media (max-width: 412px) {
     
     .windowClickBelow {
@@ -103,7 +253,7 @@
     }
 
     .clickImagesBelow {
-        font-size: 16px;
+        font-size: 18px;
         margin-left: 0%;
     }
 
