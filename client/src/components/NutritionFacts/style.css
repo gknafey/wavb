@@ -6,3 +6,55 @@
     text-decoration: underline;
     margin-top: 2%;
 }
+
+.nutritionalPhoto {
+    width: 80%;
+    margin: 2%;
+    border: solid 10px black;
+    border-radius: 20px;
+}
+
+@media (max-width: 1025px) {
+    .nutritionFactsTitle {
+        font-size: 40px;
+    }
+
+    .windowMob {
+        height: 735px;
+    }
+
+    .nutritionalPhoto {
+        width: 100%;
+        margin: 2%;
+        margin-left: 8%;
+        border: solid 5px black;
+        border-radius: 20px;
+    }
+}
+
+@media (max-width: 769px) {
+    .nutritionFactsTitle {
+        font-size: 30px;
+    }
+
+    .nutritionalPhoto {
+        width: 100%;
+        margin: 2%;
+        margin-left: 8%;
+        border: solid 5px black;
+        border-radius: 20px;
+    }
+}
+
+@media (max-width: 415px) {
+    .nutritionFactsTitle {
+        font-size: 30px;
+    }
+
+    .nutritionalPhoto {
+        width: 80%;
+        margin: 2%;
+        border: solid 5px black;
+        border-radius: 20px;
+    }
+}

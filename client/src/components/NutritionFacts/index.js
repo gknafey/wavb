@@ -7,13 +7,13 @@ function NutritionFacts() {
     return (
         <div>
             <Container fluid>
-            <div className="window">
+            <div className="window windowMob">
             <p id="sectionOne" className="nutritionFactsTitle">Nutritional Information</p>
             <br></br>
                 <Row >
                     <Col size="md-4">
 
-                        <img className="AboutUsFoto" alt="Burger Img Here" src={NutritionImage}></img>
+                        <img className="nutritionalPhoto" alt="Burger Img Here" src={NutritionImage}></img>
 
                     </Col>
                     <Col size="md-7">
