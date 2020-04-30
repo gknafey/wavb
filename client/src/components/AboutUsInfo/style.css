@@ -69,3 +69,187 @@
     font-size: 30px;
     font-weight: bold;
 }
+
+@media (max-width: 1025px) {
+    .AboutUsFoto {
+        width: 100%;
+        border: solid 5px black;
+        margin-left: 23px;
+        margin-top: 33%;
+    }
+    
+    .AboutUsFoto2 {
+        width: 100%;
+        margin: 23px;
+        border: solid 5px black;
+        border-radius: 20px;
+        margin-top: -150%;
+    }
+    
+    .AboutUsFoto3 {
+        width: 100%;
+        margin: 23px;
+        border: solid 5px black;
+        border-radius: 20px;
+        margin-top: -150%;
+    }
+    
+    .aboutUsTitle {
+        font-size: 40px;
+        margin-top: 2%;
+    }
+    
+    .aboutUsTitle2 {
+        font-size: 30px;
+        margin-left: 0%;
+    }
+    
+    .aboutUsTitle3 {
+        font-size: 30px;
+    }
+    
+    .aboutUsInfo {
+        font-size: 20px;
+        margin-left: 0px;
+        padding: 2%;
+    }
+    
+    .aboutUsWindow {
+        margin-left:0%;
+        width: 100%;
+        border: solid 4px #006438;
+    }
+    
+    .specialThanksInfo {
+        font-size: 20px;
+        padding: 0%;
+    }
+}
+
+@media (max-width: 769px) {
+    .AboutUsFoto {
+        width: 100%;
+        border: solid 5px black;
+        margin-left: 23px;
+        margin-top: 33%;
+    }
+    
+    .AboutUsFoto2 {
+        width: 100%;
+        margin: 23px;
+        border: solid 5px black;
+        border-radius: 20px;
+        margin-top: -300%;
+    }
+    
+    .AboutUsFoto3 {
+        width: 100%;
+        margin: 23px;
+        border: solid 5px black;
+        border-radius: 20px;
+        margin-top: -300%;
+    }
+    
+    .aboutUsTitle {
+        font-size: 35px;
+        margin-top: 2%;
+    }
+    
+    .aboutUsTitle2 {
+        font-size: 30px;
+        margin-left: 0%;
+    }
+    
+    .aboutUsTitle3 {
+        font-size: 30px;
+    }
+    
+    .aboutUsInfo {
+        font-size: 18px;
+        margin-left: 0px;
+        padding: 2%;
+    }
+    
+    .aboutUsWindow {
+        margin-left:-4%;
+        width: 108%;
+        border: solid 4px #006438;
+    }
+    
+    .specialThanksInfo {
+        font-size: 18px;
+        padding: 0%;
+    }
+}
+
+@media (max-width: 415px) {
+    .AboutUsFoto {
+        width: 90%;
+        border: solid 5px black;
+    }
+    
+    .AboutUsFoto2 {
+        display: none;
+    }
+    
+    .AboutUsFoto3 {
+       display: none;
+    }
+    
+    .aboutUsTitle {
+        color: #4e018d;
+        font-size: 35px;
+        font-weight: bolder;
+        margin-top: 2%;
+    }
+    
+    .aboutUsTitle2 {
+        color: #4e018d;
+        font-size: 30px;
+        font-style: italic;
+        font-weight: bolder;
+        margin-left: 0%;
+        text-decoration: underline;
+    }
+    
+    .aboutUsTitle3 {
+        font-size: 30px;
+    }
+    
+    .aboutUsInfo {
+        font-size: 16px;
+        margin-left: 0px;
+        padding: 5%;
+    }
+    
+    .aboutUsWindow {
+        margin-left:-7%;
+        width: 114%;
+        border: solid 4px #006438;
+    }
+    
+    .specialThanksInfo {
+        font-size: 16px;
+        padding: 8%;
+    }
+}
+
+@media (max-width: 412px) {
+    
+    .aboutUsInfo {
+        font-size: 14px;
+    }
+    
+    .specialThanksInfo {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 376px) {
+    
+    .aboutUsWindow {
+        margin-left:-9%;
+        width: 118%;
+        border: solid 4px #006438;
+    }
+}
