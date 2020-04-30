@@ -28,17 +28,17 @@ function Nav() {
                             <Link to="/" className="navbar-brand"> <img className="logo" alt="Logo Here" src={Logo}></img> </Link>
                             </li>
                         <Link to="/" className="nav-item link right0">
-                            <li className="nav-item resize">
+                            <li className="nav-item resize mediaLocation">
                                 Home
                             </li>
                         </Link>
                         <Link to="/WhereToFindUs" className="nav-item link">
-                            <li className="nav-item right resize">
+                            <li className="nav-item right resize mediaLocation">
                                 Where to find us
                             </li>
                         </Link>
                         <Link to="/AboutUs" className="nav-item link">
-                            <li className="nav-item right resize">
+                            <li className="nav-item right resize mediaLocation">
                                 About Us
                             </li>
                         </Link>
