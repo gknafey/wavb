@@ -88,6 +88,120 @@
 
 }
 
+@media (max-width: 737px) {
+    .window {
+        border: solid 4px #006438;
+        width: 685px;
+        margin-left: -4%;   
+    }
+
+    .mainBurger {
+        width: 90%;
+        border: solid 5px black;
+        margin: 2%;
+    }
+
+    .mainTitle {
+        font-size: 30px;
+        margin-left: -15%;
+    }
+
+    .mainInfo {
+        
+        text-align: left;
+        font-size: 20px;
+        
+        
+        margin-left: 0%;
+    }
+
+
+}
+
+@media (max-width: 668px) {
+    .window {
+        border: solid 4px #006438;
+        width: 580px;
+        margin-left: -1%;   
+    }
+
+    .mainBurger {
+        border: solid 5px black;
+        margin: 2%;
+    }
+
+    .mainTitle {
+        font-size: 25px;
+        margin-left: 0%;
+    }
+
+    .mainInfo {
+        
+        text-align: left;
+        font-size: 18px;
+        
+        margin: 15px;
+    }
+
+
+}
+
+@media (max-width: 641px) {
+    .window {
+        border: solid 4px #006438;
+        width: 550px;
+        margin-left: -1%;   
+    }
+
+    .mainBurger {
+        border: solid 5px black;
+        margin: 2%;
+    }
+
+    .mainTitle {
+        font-size: 25px;
+        margin-left: 0%;
+    }
+
+    .mainInfo {
+        
+        text-align: left;
+        font-size: 18px;
+        
+        margin: 15px;
+    }
+
+
+}
+
+@media (max-width: 569px) {
+    .window {
+        border: solid 4px #006438;
+        width: 500px;
+        margin-left: 0%;   
+    }
+
+    .mainBurger {
+        border: solid 5px black;
+        margin: 2%;
+    }
+
+    .mainTitle {
+        font-size: 25px;
+        margin-left: 0%;
+    }
+
+    .mainInfo {
+        
+        text-align: left;
+        font-size: 18px;
+        
+        margin: 15px;
+    }
+
+
+}
+
 @media (max-width: 415px) {
     .window {
         border: solid 4px #006438;

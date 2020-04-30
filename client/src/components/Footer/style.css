@@ -104,6 +104,115 @@
     }
 }
 
+@media (max-width: 737px) {
+    .logoFooter {
+        width: 350px;
+        height: 200px;
+        padding: 1.5%;
+        border-radius: 35%;
+        border: solid 10px black; 
+        background-color: #fff;
+        margin-left: -5px;
+       
+    }
+
+    .textFooter {
+        font-size: 20px;
+        padding-top: 10%;
+        padding-right: 0%;
+    }
+
+    .linkTitle0 {
+        font-size: 22px;
+    }
+
+    .footerLinks {
+        font-size: 20px;  
+    }
+}
+
+@media (max-width: 668px) {
+    .logoFooter {
+        width: 350px;
+        height: 200px;
+        padding: 1.5%;
+        border-radius: 35%;
+        border: solid 10px black; 
+        background-color: #fff;
+        margin-left: -20px;
+       
+    }
+
+    .textFooter {
+        font-size: 20px;
+        padding-top: 10%;
+        padding-right: 0%;
+    }
+
+    .linkTitle0 {
+        font-size: 22px;
+        margin-left: -10%;
+    }
+
+    .footerLinks {
+        font-size: 20px;  
+    }
+}
+
+@media (max-width: 641px) {
+    .logoFooter {
+        width: 350px;
+        height: 200px;
+        padding: 1.5%;
+        border-radius: 35%;
+        border: solid 10px black; 
+        background-color: #fff;
+        margin-left: -20px;
+       
+    }
+
+    .textFooter {
+        font-size: 20px;
+        padding-top: 10%;
+        padding-right: 0%;
+    }
+
+    .linkTitle0 {
+        font-size: 22px;
+    }
+
+    .footerLinks {
+        font-size: 20px;  
+    }
+}
+
+@media (max-width: 569px) {
+    .logoFooter {
+        width: 350px;
+        height: 200px;
+        padding: 1.5%;
+        border-radius: 35%;
+        border: solid 10px black; 
+        background-color: #fff;
+        margin-left: -20px;
+       
+    }
+
+    .textFooter {
+        font-size: 20px;
+        padding-top: 10%;
+        padding-right: 0%;
+    }
+
+    .linkTitle0 {
+        font-size: 22px;
+    }
+
+    .footerLinks {
+        font-size: 20px;  
+    }
+}
+
 @media (max-width: 415px) {
     .logoFooter {
         width: 300px;
