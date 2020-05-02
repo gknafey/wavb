@@ -104,6 +104,15 @@
     }
 }
 
+@media (max-width: 824px) {
+    .logoFooter {
+        width: 200px;
+        height: 140px;
+        margin-left: 1px;
+       
+    }
+}
+
 @media (max-width: 769px) {
     .logoFooter {
         width: 190px;
