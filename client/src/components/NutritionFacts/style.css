@@ -20,7 +20,7 @@
     }
 
     .windowMob {
-        height: 735px;
+        min-height: 735px;
     }
 
     .nutritionalPhoto {
@@ -41,6 +41,20 @@
         width: 100%;
         margin: 2%;
         margin-left: 8%;
+        border: solid 5px black;
+        border-radius: 20px;
+    }
+}
+
+@media (max-width: 737px) {
+    .nutritionFactsTitle {
+        font-size: 30px;
+    }
+
+    .nutritionalPhoto {
+        width: 70%;
+        margin: 2%;
+        margin-left: 3%;
         border: solid 5px black;
         border-radius: 20px;
     }
