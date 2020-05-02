@@ -8,7 +8,7 @@ function Nav() {
         <div id="sectionZero" className="border0">
             <div className="border1">
                 <nav className="navbar">
-                    <ul className="nav left">
+                    <ul className="nav left left0">
                         <Link to="/Ingredients" className="nav-item left link">
                             <li className="nav-item resize">
                                 Ingredients
