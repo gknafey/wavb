@@ -1,16 +1,16 @@
 .quadrantBurgers {
     width: 600px;
     height: 400px;
-    background-color: black;
-    border: solid 4px black;
+    background-color: #006438;
+    border: solid 4px #006438;
     border-radius: 10px;
 }
 
 .quadrantBurgers:hover {
-    border-top: solid 4px black;
-    border-left: solid 4px black;
-    border-bottom: solid 14px black;
-    border-right: solid 12px black;
+    border-top: solid 4px #006438;
+    border-left: solid 4px #006438;
+    border-bottom: solid 14px #006438;
+    border-right: solid 12px #006438;
     
 }
 

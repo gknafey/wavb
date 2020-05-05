@@ -10,7 +10,7 @@
 .nutritionalPhoto {
     width: 80%;
     margin: 2%;
-    border: solid 10px black;
+    border: solid 5px #006438;
     border-radius: 20px;
 }
 
