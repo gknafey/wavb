@@ -9,35 +9,35 @@ function Nav() {
             <div className="border1">
                 <nav className="navbar">
                     <ul className="nav left left0">
-                        <Link to="/Ingredients" className="nav-item left link">
+                        <Link to="/Ingredients" className="nav-item left link moveDownMobile414">
                             <li className="nav-item resize">
                                 Ingredients
                             </li>
                         </Link>
-                        <Link to="/NutritionalFacts" className="nav-item left link">
+                        <Link to="/NutritionalFacts" className="nav-item left link moveDownMobile414">
                             <li className="nav-item resize">
                                 Nutritional Facts
                             </li>
                         </Link>
-                        <Link to="/CookingInstructions" className="nav-item left link">
+                        <Link to="/CookingInstructions" className="nav-item left link moveDownMobile414">
                             <li className="nav-item resize">
                                 Cooking Instructions
                             </li>
                         </Link>
-                            <li className="nav-item">
-                            <Link to="/" className="navbar-brand"> <img className="logo" alt="Logo Here" src={Logo}></img> </Link>
+                            <li className="nav-item moveDownMobile414">
+                            <Link to="/" className="navbar-brand"> <img className="logo moveDownMobile414" alt="Logo Here" src={Logo}></img> </Link>
                             </li>
-                        <Link to="/" className="nav-item link right0">
+                        <Link to="/" className="nav-item link right0 moveDownMobile414">
                             <li className="nav-item resize mediaLocation">
                                 Home
                             </li>
                         </Link>
-                        <Link to="/WhereToFindUs" className="nav-item link">
+                        <Link to="/WhereToFindUs" className="nav-item link moveDownMobile414">
                             <li className="nav-item right resize mediaLocation">
                                 Where to find us
                             </li>
                         </Link>
-                        <Link to="/AboutUs" className="nav-item link">
+                        <Link to="/AboutUs" className="nav-item link moveDownMobile414">
                             <li className="nav-item right resize mediaLocation">
                                 About Us
                             </li>
