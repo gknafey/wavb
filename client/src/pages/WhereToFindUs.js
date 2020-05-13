@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Jumbotron from "../components/Jumbotron";
-
+import WhereToFind from "../components/WhereToFind";
 
 class WhereToFindUs extends Component {
     state = {
@@ -14,7 +14,7 @@ class WhereToFindUs extends Component {
 
                 <Jumbotron>
 
-                    <h1>Where To Find Us Info Here</h1>
+                    <WhereToFind />
 
                 </Jumbotron>
 
