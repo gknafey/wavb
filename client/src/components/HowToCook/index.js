@@ -31,7 +31,7 @@ function HowToCook() {
                     </div>
 
                     <div className="windowQuickRecipes">
-                        <p className="howToCookTitleQuick"> Recipe Quick Links: </p>
+                        <p className="howToCookTitleQuick"> Cooking Suggestions Quick Links: </p>
                         <span>
                             <Link to="/CookingInstructions#poachedEggPlate" className="nav-item left quickLinks"> Poached Egg Plate </Link>
                             <span className="quickDivider">|</span>
@@ -206,7 +206,7 @@ function HowToCook() {
 
             <Container fluid>
                 <div className="windowRecipes">
-                    <p id="sectionOne" className="aboutUsTitle">Our Amazing Recipes</p>
+                    <p id="sectionOne" className="aboutUsTitle">Our Amazing Suggested Combos</p>
                     <p id="poachedEggPlate" className="cookingInstructionsWarning">( Cook Frozen Do Not Defrost )</p>
                     <br></br>
                     <Row >

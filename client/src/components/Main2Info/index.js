@@ -18,7 +18,7 @@ function Main2info() {
                         <div className="clickImagesBelowSection">
                             <Container fluid>
                                 <div className="windowClickBelow">
-                                    <p className="clickImagesBelow"> Click the Images Below to View these Amazing Recipes </p>
+                                    <p className="clickImagesBelow"> Click the Images Below to View these Amazing Suggested Combos </p>
                                     
                                     <div className="divider0-2"></div>
                                 </div>
