@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row, Container } from "../Grid";
-import Burger from "../../images/BurgerNice.JPG";
+import Burger from "../../images/PlatesB.JPG";
+import Client from "../../images/Client.jpg";
 import "./style.css";
 
 function AboutUsInfo() {
@@ -13,7 +14,7 @@ function AboutUsInfo() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="Burger Img Here" src={Burger}></img>
+                            <img className="AboutUsFoto" alt="Burger Img Here" src={Client}></img>
 
                         </Col>
                         <Col size="md-7">
@@ -50,7 +51,7 @@ function AboutUsInfo() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto2" alt="Burger Img Here" src={Burger}></img>
+                            {/* <img className="AboutUsFoto2" alt="Burger Img Here" src={Burger}></img> */}
 
                         </Col>
                     </Row>
@@ -109,7 +110,7 @@ function AboutUsInfo() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto3" alt="Burger Img Here" src={Burger}></img>
+                            {/* <img className="AboutUsFoto3" alt="Burger Img Here" src={Burger}></img> */}
 
                         </Col>
                     </Row>
