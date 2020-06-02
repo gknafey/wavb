@@ -14,6 +14,7 @@ class Homepage extends Component {
 
     return (
       <div>
+        <main className="tags">Home</main>
         <div className="jumboMain">
           <Jumbotron>
 

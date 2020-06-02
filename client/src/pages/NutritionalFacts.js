@@ -11,7 +11,7 @@ class Nutrition extends Component {
 
         return (
             <div className="jumboMain">
-                
+                <header className="tags">Nutritional Facts on Vegan Burgers</header>
                 <Jumbotron>
 
                     <NutritionFacts />

@@ -11,7 +11,7 @@ class WhereToFindUs extends Component {
         return (
 
             <div className="jumboMain">
-
+                <header className="tags">Where You Can Find Will's Amazing Vegan Burgers</header>
                 <Jumbotron>
 
                     <WhereToFind />

@@ -12,7 +12,7 @@ class AboutUs extends Component {
     render() {
         return (
             <div className="jumboMain">
-                
+                <header className="tags">About Us Information</header>
 
                 <Jumbotron>
 

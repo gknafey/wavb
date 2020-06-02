@@ -10,7 +10,7 @@ class Cooking extends Component {
     render () {
         return (
             <div className="jumboMain"> 
-            
+                <header className="tags">Cooking</header>
                 <Jumbotron>
 
                     <HowToCook />

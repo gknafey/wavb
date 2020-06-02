@@ -10,7 +10,7 @@ class Ingredients extends Component {
     render () {
         return (
             <div className="jumboMain">
-            
+                <header className="tags">Ingredients Information</header>
                 <Jumbotron>
 
                     <IngredientsInfo />

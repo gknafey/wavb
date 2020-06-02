@@ -28,6 +28,10 @@
     margin-left: -80px;
 }
 
+.tags {
+    display:none;
+}
+
 @media (max-width: 1367px) {
     .window {
         border: solid 6px #006438;
