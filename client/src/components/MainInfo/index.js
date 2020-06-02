@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row, Container } from "../Grid";
-import Burger from "../../images/BurgerNice.JPG";
 import "./style.css";
 
 function Main() {
@@ -12,7 +11,7 @@ function Main() {
                 <Row >
                     <Col size="md-6">
 
-                        <img className="mainBurger" alt="https://i.imgur.com/CszQJx9.jpg" src={Burger}></img>
+                        <img className="mainBurger" alt="Burger Image Here" src="https://i.imgur.com/CszQJx9.jpg"></img>
 
                     </Col>
                     <Col size="md-6">
