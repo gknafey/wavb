@@ -14,7 +14,7 @@ function AboutUsInfo() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="Burger Img Here" src={Client}></img>
+                            <img className="AboutUsFoto" alt="https://i.imgur.com/vMthQt2.jpg" src={Client}></img>
 
                         </Col>
                         <Col size="md-7">

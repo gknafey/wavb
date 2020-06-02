@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row, Container } from "../Grid";
-import Burger from "../../images/BurgerNice.JPG";
 import { HashLink as Link } from "react-router-hash-link";
 import PoachedEggB1 from "../../images/PoachedEggPlateB.JPG";
 import PoppersB2 from "../../images/PoppersPlateB.JPG";
@@ -23,6 +22,8 @@ function HowToCook() {
                             <Link to="/CookingInstructions#grilling" className="nav-item left quickLinks"> Grilling </Link>
                             <span className="quickDivider">|</span>
                             <Link to="/CookingInstructions#boiling" className="nav-item left quickLinks"> Boiling </Link>
+                            <span className="quickDivider">|</span>
+                            <Link to="/CookingInstructions#baking" className="nav-item left quickLinks"> Baking </Link>
                             <span className="quickDivider">|</span>
                             <Link to="/CookingInstructions#microwaving" className="nav-item left quickLinks"> Microwave </Link>
                         </span>
@@ -58,7 +59,7 @@ function HowToCook() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="Burger Img Here" src={Burger}></img>
+                            <img className="AboutUsFoto" alt="Burger Img Here" src="https://i.imgur.com/4im7bh0.jpg"></img>
 
                         </Col>
                         <Col size="md-7">
@@ -101,7 +102,7 @@ function HowToCook() {
 
                         <Col size="md-4">
 
-                            <img className="howToCookFoto" alt="Burger Img Here" src={Burger}></img>
+                            <img className="howToCookFoto" alt="Burger Img Here" src="https://i.imgur.com/LBvCKzS.jpg"></img>
 
                         </Col>
                     </Row>
@@ -116,7 +117,7 @@ function HowToCook() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="Burger Img Here" src={Burger}></img>
+                            <img className="AboutUsFoto" alt="Burger Img Here" src="https://i.imgur.com/3SY29mX.jpg"></img>
 
                         </Col>
                         <Col size="md-7">
@@ -155,7 +156,7 @@ function HowToCook() {
 
                         <Col size="md-4">
 
-                            <img className="howToCookFoto" alt="Burger Img Here" src={Burger}></img>
+                            <img className="howToCookFoto" alt="Burger Img Here" src="https://i.imgur.com/ZbTSDWI.jpg"></img>
 
                         </Col>
                     </Row>
@@ -163,19 +164,38 @@ function HowToCook() {
                     <div className="divider0-1">
 
                     </div>
-                    <div id="microwaving" className="divider0">
+                    <div id="baking" className="divider0">
 
                     </div>
 
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="Burger Img Here" src={Burger}></img>
+                            <img className="AboutUsFoto" alt="Burger Img Here" src="https://i.imgur.com/KJist9H.jpg"></img>
 
                         </Col>
                         <Col size="md-7">
-                            <p className="aboutUsTitle2">Microwave:</p>
+                            <p className="aboutUsTitle2">Baking:</p>
                             <p className="aboutUsInfo">
+                                <br></br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                Place on a non-stick pan with 3/4 tablespoon of oil on each
+                                side, then place in a preheated oven at 350 Degrees for 20 minutes.
+                        </p>
+                        </Col>
+                    </Row>
+
+                    <div className="divider0-1"></div>
+
+                    <div id="microwaving" className="divider0">
+
+                    </div>
+
+                    <Row >
+                        
+                        <Col size="md-7">
+                            <p className="howToCookTitle">Microwave:</p>
+                            <p className="howToCookInfo">
                                 <br></br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 Microwave for 2 minutes in its BPA-free Bag. &nbsp; ( Remove Carefully )
@@ -197,7 +217,15 @@ function HowToCook() {
                                  something amazing.**
                         </p>
                         </Col>
+                        <Col size="md-4">
+
+                            <img className="AboutUsFoto" alt="Burger Img Here" src="https://i.imgur.com/FN5AQEn.jpg"></img>
+
+                        </Col>
                     </Row>
+
+                    <div className="divider0-1"></div>
+
 
 
                 </div>
