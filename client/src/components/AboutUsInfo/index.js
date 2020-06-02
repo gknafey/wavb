@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row, Container } from "../Grid";
-import Burger from "../../images/PlatesB.JPG";
 import Client from "../../images/Client.jpg";
 import "./style.css";
 
@@ -66,7 +65,7 @@ function AboutUsInfo() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="https://i.imgur.com/vMthQt2.jpg" src={Burger}></img>
+                            <img className="AboutUsFoto" alt="Burger Image Here" src="https://i.imgur.com/vMthQt2.jpg"></img>
 
                         </Col>
                         <Col size="md-7">
