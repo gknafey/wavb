@@ -11,7 +11,7 @@ function Main() {
                 <Row >
                     <Col size="md-6">
 
-                        <img className="mainBurger" alt="Burger Image Here" src="https://i.imgur.com/CszQJx9.jpg"></img>
+                        <img className="mainBurger" alt="Burger Here" src="https://i.imgur.com/CszQJx9.jpg"></img>
 
                     </Col>
                     <Col size="md-6">

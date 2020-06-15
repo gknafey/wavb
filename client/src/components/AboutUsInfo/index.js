@@ -13,7 +13,7 @@ function AboutUsInfo() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="https://i.imgur.com/vMthQt2.jpg" src={Client}></img>
+                            <img className="AboutUsFoto" alt="Client Here" src={Client}></img>
 
                         </Col>
                         <Col size="md-7">
@@ -65,7 +65,7 @@ function AboutUsInfo() {
                     <Row >
                         <Col size="md-4">
 
-                            <img className="AboutUsFoto" alt="Burger Image Here" src="https://i.imgur.com/vMthQt2.jpg"></img>
+                            <img className="AboutUsFoto" alt="Burger Here" src="https://i.imgur.com/vMthQt2.jpg"></img>
 
                         </Col>
                         <Col size="md-7">
@@ -159,9 +159,6 @@ function AboutUsInfo() {
                                 <br></br>
                             </p>
                             <ul className="specialThanksInfo">
-                                <li>
-                                    Helen Gocher: What a great job in editing and turning two voices into one.
-                        </li>
                                 <li>
                                     Brian Gocher: Helped with designs and brochures and labels.
                         </li>
