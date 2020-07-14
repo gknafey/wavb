@@ -7,6 +7,10 @@
     background-color: #fff;
 }
 
+.hidden-Nav {
+    display: none;
+}
+
 .navbar {
     background-color: #e5e3db;
     height: 160px;
@@ -309,7 +313,7 @@
 }
 
 @media (max-width: 769px) {
-
+    /* here is the section to stop at ipad */
     .right0 {
         margin-left: -42%;
     }
@@ -658,29 +662,54 @@
 }
 
 @media (max-width: 415px) {
-    .navbar {
-        background-color: #e5e3db;
-        height: 160px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 0px;
-        border-top: solid 10px #006438;
-    }
+   
 
     .moveDownMobile414 {
         position: relative;
         top:140px;
     }
 
-    .left {
-        margin-left: 0%;
-        position: relative;
-        left:-5px;
+    .hidden-Mobile {
+        display: none;
     }
 
-    .right0 {
-        margin-left: 1%;
-    }
+    .hidden-Nav {
+        display: block;     
+}
+
+.hidden-NavStyle {
+    border-radius: 10px;
+    position: fixed;
+    top: -20px;
+    left: 95px;
+    width: 200px;
+    background-color: #006438; 
+    font-size: 23px;
+}
+
+.hidden-NavStyle2 {
+    position: absolute;
+    top: 27px;
+    left: 63px;
+    border: solid 2px #006438;
+}
+
+.thisNavColor {
+    border-bottom: solid 1px #006438;
+}
+
+.thisHiddenNav {
+    color: #4e018d;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.thisHiddenNav:visited {
+    background-color: #006438;
+}
+
 
     .resize {
         width: 190px;
@@ -699,22 +728,7 @@
         float: left;
     }
 
-    .link {
-        font-size: 17px;
-        margin-right: 2%;
-        margin-top: 1%;
-        max-height: 100px;
-        margin-left: 0px;
-    }
-
-    .navbar {
-        background-color: #e5e3db;
-        height: 350px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 16px;
-        border-top: solid 10px #006438;
-    }
+    
 
     .logo {
         width: 335px;
@@ -729,44 +743,59 @@
         top: -50px;
     }
     
-    .mediaLocation {
-        position: relative;
-        top:-423px;
-        left: 202px;
-        border: none;
-        border-radius: 0px;
-        border: solid 3px #006438;
-        border-top-left-radius: 20px;
-        border-bottom-left-radius: 20px;
-        border-right: none;
-    }
+   
 }
 
 @media (max-width: 412px) {
-    .navbar {
-        background-color: #e5e3db;
-        height: 160px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 0px;
-        border-top: solid 10px #006438;
-    }
-
+  
     .moveDownMobile414 {
         position: relative;
         top: 0px;
     }
 
-    .left {
-        margin-left: 0%;
-        position: relative;
-        left:-5px;
+    .hidden-Mobile {
+        display: none;
     }
 
-    .right0 {
-        margin-left: 1%;
-    }
+    .hidden-Nav {
+        display: block;     
+}
 
+.hidden-NavStyle {
+    border-radius: 10px;
+    position: fixed;
+    top: -20px;
+    left: 95px;
+    width: 200px;
+    background-color: #006438; 
+    font-size: 23px;
+}
+
+.hidden-NavStyle2 {
+    position: absolute;
+    top: 27px;
+    left: 63px;
+    border: solid 2px #006438;
+}
+
+.thisNavColor {
+    border-bottom: solid 1px #006438;
+}
+
+.thisHiddenNav {
+    color: #4e018d;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.thisHiddenNav:visited {
+    background-color: #006438;
+}
+
+
+    
     .resize {
         width: 190px;
         height: 50px;
@@ -784,23 +813,7 @@
         float: left;
     }
 
-    .link {
-        font-size: 17px;
-        margin-right: 2%;
-        margin-top: 1%;
-        max-height: 100px;
-        margin-left: 0px;
-    }
-
-    .navbar {
-        background-color: #e5e3db;
-        height: 350px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 16px;
-        border-top: solid 10px #006438;
-    }
-
+    
     .logo {
         width: 335px;
         height: 200px;
@@ -828,24 +841,47 @@
 }
 
 @media (max-width: 376px) {
-    .navbar {
-        background-color: #e5e3db;
-        height: 160px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 0px;
-        border-top: solid 10px #006438;
+    
+    .hidden-Mobile {
+        display: none;
     }
 
-    .left {
-        margin-left: 0%;
-        position: relative;
-        left:-5px;
-    }
+    .hidden-Nav {
+        display: block;     
+}
 
-    .right0 {
-        margin-left: 1%;
-    }
+.hidden-NavStyle {
+    border-radius: 10px;
+    position: fixed;
+    top: -20px;
+    left: 75px;
+    width: 200px;
+    background-color: #006438; 
+    font-size: 23px;
+}
+
+.hidden-NavStyle2 {
+    position: absolute;
+    top: 27px;
+    left: 43px;
+    border: solid 2px #006438;
+}
+
+.thisNavColor {
+    border-bottom: solid 1px #006438;
+}
+
+.thisHiddenNav {
+    color: #4e018d;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.thisHiddenNav:visited {
+    background-color: #006438;
+}
 
     .resize {
         width: 180px;
@@ -864,23 +900,7 @@
         float: left;
     }
 
-    .link {
-        font-size: 16px;
-        margin-right: 2%;
-        margin-top: 1%;
-        max-height: 100px;
-        margin-left: 0px;
-    }
-
-    .navbar {
-        background-color: #e5e3db;
-        height: 350px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 16px;
-        border-top: solid 10px #006438;
-    }
-
+    
     .logo {
         width: 300px;
         height: 200px;
@@ -894,38 +914,51 @@
         top: -50px;
     }
     
-    .mediaLocation {
-        position: relative;
-        top:-423px;
-        left: 180px;
-        border: none;
-        border-radius: 0px;
-        border: solid 3px #006438;
-        border-top-left-radius: 20px;
-        border-bottom-left-radius: 20px;
-        border-right: none;
-    }
+    
 }
 
 @media (max-width: 361px) {
-    .navbar {
-        background-color: #e5e3db;
-        height: 160px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 0px;
-        border-top: solid 10px #006438;
+    
+    .hidden-Mobile {
+        display: none;
     }
 
-    .left {
-        margin-left: 0%;
-        position: relative;
-        left:-5px;
-    }
+    .hidden-Nav {
+        display: block;     
+}
 
-    .right0 {
-        margin-left: 1%;
-    }
+.hidden-NavStyle {
+    border-radius: 10px;
+    position: fixed;
+    top: -20px;
+    left: 65px;
+    width: 200px;
+    background-color: #006438; 
+    font-size: 23px;
+}
+
+.hidden-NavStyle2 {
+    position: absolute;
+    top: 27px;
+    left: 33px;
+    border: solid 2px #006438;
+}
+
+.thisNavColor {
+    border-bottom: solid 1px #006438;
+}
+
+.thisHiddenNav {
+    color: #4e018d;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.thisHiddenNav:visited {
+    background-color: #006438;
+}
 
     .resize {
         width: 160px;
@@ -944,22 +977,7 @@
         float: left;
     }
 
-    .link {
-        font-size: 16px;
-        margin-right: 2%;
-        margin-top: 1%;
-        max-height: 100px;
-        margin-left: 0px;
-    }
-
-    .navbar {
-        background-color: #e5e3db;
-        height: 350px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 16px;
-        border-top: solid 10px #006438;
-    }
+    
 
     .logo {
         width: 300px;
@@ -974,78 +992,62 @@
         top: -50px;
     }
     
-    .mediaLocation {
-        position: relative;
-        top:-423px;
-        left: 180px;
-        border: none;
-        border-radius: 0px;
-        border: solid 3px #006438;
-        border-top-left-radius: 20px;
-        border-bottom-left-radius: 20px;
-        border-right: none;
-    }
+    
 }
 
 @media (max-width: 321px) {
-    .navbar {
-        background-color: #e5e3db;
-        height: 160px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 0px;
-        border-top: solid 10px #006438;
+    .hidden-Mobile {
+        display: none;
     }
 
-    .left {
-        margin-left: 0%;
-        position: relative;
-        left:-5px;
+    
+    .hidden-Nav {
+            display: block;     
     }
 
-    .right0 {
-        margin-left: 1%;
+    .hidden-NavStyle {
+        border-radius: 10px;
+        position: fixed;
+        top: -20px;
+        left: 45px;
+        width: 200px;
+        background-color: #006438; 
+        font-size: 23px;
     }
+
+    .hidden-NavStyle2 {
+        position: absolute;
+        top: 27px;
+        left: 18px;
+        border: solid 2px #006438;
+    }
+
+    .thisNavColor {
+        border-bottom: solid 1px #006438;
+    }
+
+    .thisHiddenNav {
+        color: #4e018d;
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .thisHiddenNav:visited {
+        background-color: #006438;
+    }
+    
 
     .moveDownMobile414 {
         position: relative;
         top:140px;
     }
 
-    .resize {
-        width: 140px;
-        height: 50px;
-        padding: 0;
-        padding-top: 3px;
-        text-align: center;
-        border: none;
-        border-radius: 0;
-        border-top: solid 3px #006438;
-        border-bottom: solid 3px #006438;
-        border-right: solid 3px #006438;
-        border-top-right-radius: 20px;
-        border-bottom-right-radius: 20px;
-        line-height: 20px;
-        float: left;
-    }
+    
+   
 
-    .link {
-        font-size: 16px;
-        margin-right: 2%;
-        margin-top: 1%;
-        max-height: 100px;
-        margin-left: 0px;
-    }
-
-    .navbar {
-        background-color: #e5e3db;
-        height: 350px;
-        width: 100%;
-        border-bottom: solid 10px #c1d6ad;
-        padding: 0px 16px 8px 16px;
-        border-top: solid 10px #006438;
-    }
-
+  
     .logo {
         width: 300px;
         height: 200px;
@@ -1058,16 +1060,5 @@
         left: 10px;
         top: -50px;
     }
-    
-    .mediaLocation {
-        position: relative;
-        top:-423px;
-        left: 170px;
-        border: none;
-        border-radius: 0px;
-        border: solid 3px #006438;
-        border-top-left-radius: 20px;
-        border-bottom-left-radius: 20px;
-        border-right: none;
-    }
+   
 }
