@@ -74,17 +74,18 @@ function Footer() {
 
                                 <ul className="list-unstyled">
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Link 1</Link>
+                                        <a href="https://www.hunterdonlandtrust.org/farmers-market/" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> HLT Farmers Market</a>
                                     </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Link 2</Link>
+                                    <a href="http://www.cowsoutside.com/" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> Bobolink Dairy and Bakehouse</a>
                                     </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Link 3</Link>
-                                    </li>
+                                    <a href="https://www.comeback.farm/" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> Comeback Farm</a> </li>
                                     <li>
-                                        <Link to="/" className="nav-item left footerLinks"> Link 4</Link>
-                                    </li>
+                                    <a href="https://www.localharvest.org/river-lea-house-M67853" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> River Lea House</a></li>
+                                    <li>
+                                    <a href="https://www.ironboundhardcider.com/" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> Ironbound Farm</a></li>
+                                    
                                 </ul>
 
                         </div>
