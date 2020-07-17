@@ -85,7 +85,8 @@ function Footer() {
                                     <a href="https://www.localharvest.org/river-lea-house-M67853" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> River Lea House</a></li>
                                     <li>
                                     <a href="https://www.ironboundhardcider.com/" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> Ironbound Farm</a></li>
-                                    
+                                    <li>
+                                    <a href="https://www.rivervalleycommunitygrains.com/" target="_blank" rel="noopener noreferrer" className="nav-item left footerLinks"> River Valley Community Grains</a></li>
                                 </ul>
 
                         </div>
