@@ -3,7 +3,7 @@
     font-size: 40px;
     font-style: italic;
     font-weight: bolder;
-    text-decoration: underline;
+
 }
 
 .ingredientsInfo {
@@ -18,7 +18,7 @@
     font-size: 35px;
     font-style: italic;
     font-weight: bolder;
-    text-decoration: underline;
+   
 }
 
 @media (max-width: 769px) {

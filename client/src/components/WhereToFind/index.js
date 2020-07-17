@@ -20,10 +20,10 @@ function WhereToFind() {
                         <p className="aboutUsInfo">
                             
                                
-                                We can be found and bought at Hunterdon Flemington Farmers Market: <br></br>
+                                We can be found and bought at the Hunterdon Land Trust Farmers Market: <br></br>
                                 Every 1st and 3rd Sunday of the month, from 9am to 1pm.
                                 <br></br>
-                                Hunterdon Land Trust Farmer's Market, Frenchtown Flemington Rd, Flemington, NJ 08822
+                                Hunterdon Land Trust Farmer's Market, 111 Mine Street, Flemington, NJ 08822
                                 <br></br>
                                 <br></br>
 
