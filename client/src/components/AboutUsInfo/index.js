@@ -194,7 +194,7 @@ function AboutUsInfo() {
                                     Ironbound Hard Cider in Asbury NJ: Who thought me garter scents of community.
                         </li>
                                 <li>
-                                    NJ Veg Fast: A great venue in featuring organic products.
+                                    NJ Veg Feast: A great venue in featuring organic products.
                         </li>
                             </ul>
                             <p className="specialThanksInfo">
