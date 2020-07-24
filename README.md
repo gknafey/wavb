@@ -15,15 +15,15 @@ Deployed using Heroku,
 
 
 ##Built With
-React
-Node
-Express
-Heroku
-Git & Github
-JavaScript
-HTML
-CSS
-BootStrap
+*React
+*Node
+*Express
+*Heroku
+*Git & Github
+*JavaScript
+*HTML
+*CSS
+*BootStrap
 
 ##Authors
 
