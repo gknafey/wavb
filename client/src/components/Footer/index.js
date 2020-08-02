@@ -2,6 +2,8 @@ import React from "react";
 import { HashLink as Link } from "react-router-hash-link";
 import "./style.css";
 import Logo from "../../images/WillsLogo.jpg";
+import Insta from "../../images/Insta.svg.webp";
+import face from "../../images/face.png";
 
 function Footer() {
     return (
@@ -29,9 +31,17 @@ function Footer() {
                             
                             <p className="textFooter">
 
-                                Thank you for using our site. We are dedicated to making quality Vegan Burgers and hope you enjoy our product.
-                                
+                            Thank you for using our site. We are dedicated to making quality All-Natural Vegan Burgers. We hope you enjoy our product.
+
+                                <br></br>
+                                <br></br>
+                                Will’s Amazing Vegan Burgers<br></br>
+                                Riva Avenue<br></br>
+                                Milltown NJ 08850<br></br>
+                                732-993-1303
+
                                 </p>
+
                             
 
                         </div>
@@ -97,7 +107,10 @@ function Footer() {
 
                 </div>
                    
-
+                <div>
+                <p className="textFooter2 text-center"><img className="logoInsta" alt="Logo Here" src={Insta}></img>@willpoughsr <img className="logoFace" alt="Logo Here" src={face}></img>@WillsAmazing <img className="logoFooter2"  alt="Logo Here" src={Logo}></img>wavb.biz</p>
+                
+                </div>
                     
                 <div className="footer-copyright text-center py-3">© 2020 Copyright
                 

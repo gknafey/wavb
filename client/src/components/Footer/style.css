@@ -14,12 +14,39 @@
    
 }
 
+.logoFooter2 {
+    width: 100px;
+    border-radius: 35%;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+.logoInsta {
+    width: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.logoFace {
+    width: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .textFooter {
     font-size: 24px;
     color: #4e018d;
     font-weight: bold;
     padding-top: 10%;
     padding-right: 14%;
+}
+
+.textFooter2 {
+    font-size: 24px;
+    color: #4e018d;
+    font-weight: bold;
+    padding-top: 1%;
 }
 
 .footerBorder0 {

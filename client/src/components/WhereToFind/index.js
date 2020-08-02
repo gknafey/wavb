@@ -20,8 +20,10 @@ function WhereToFind() {
                         <p className="aboutUsInfo">
                             
                                
-                                We can be found and bought at the Hunterdon Land Trust Farmers Market: <br></br>
-                                Every 1st and 3rd Sunday of the month, from 9am to 1pm.
+                                We can be found and bought at the Hunterdon Land
+                                Trust Farmers Market:
+                                 <br></br>
+                                 Every 1st and 3rd Sunday of the month, from 9am to 1pm.
                                 <br></br>
                                 Hunterdon Land Trust Farmer's Market, 111 Mine Street, Flemington, NJ 08822
                                 <br></br>
@@ -33,8 +35,10 @@ function WhereToFind() {
                                 <br></br>
                                 <br></br>
 
-                                If you have any suggestions as to where you would like us to sell our products or if your 
-                                a vendor that would like to sell our products. Please contact us at : &nbsp;&nbsp;
+                                If you have any suggestions as to where you would
+                                like us to sell our products or if you are a vendor
+                                that would like to sell our products, please contact
+                                us at :  &nbsp;&nbsp;
                                 <a className="email" href="mailto:willpoughsr@gmail.com">willpoughsr@gmail.com</a>
                             
                         </p>

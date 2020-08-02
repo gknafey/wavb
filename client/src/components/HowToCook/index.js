@@ -201,20 +201,32 @@ function HowToCook() {
                                 Microwave for 2 minutes in its BPA-free Bag. &nbsp; ( Remove Carefully )
                                 <br></br>
                                 <br></br>
-                                **Microwaving: As chef, I didn't want to promote this style of cooking,
-                                 as a matter of fact I didn't want to consider it.  But it's funny how 
-                                 life throws you a curveball.  After being in business approximately 
-                                 three years,  I finally started listening to my microwave enthusiasts.  
-                                 Some of their reasons were, they just needed a quick way to heat their 
-                                 burgers while at work and some simply don't like to cook.  So finally 
-                                 I gave it a try.  To my surprise microwaving, like boiling, produces a 
-                                 tamale-like texture in two minutes.  The biggest surprise came long after 
-                                 the burger completely cooled off.  It was still tender, enough that I 
-                                 could cut through it with little effort.  Unlike process dough and batter 
-                                 products which turn hard as a rock soon after being microwaved.  This 
-                                 should tell you something about natural ingredients like the ones in 
-                                 my burgers.  So thank you to all my microwaving folks, you taught me 
-                                 something amazing.**
+                                **Microwaving: As a chef, I didn't want
+to promote this style of cooking, as a
+matter of fact I didn't want to consider it.
+But it's funny how life throws you a
+curveball. After being in business
+approximately three years, I finally
+started listening to my microwave
+enthusiasts. Some of their reasons were,
+they just needed a quick way to heat
+their burgers while at work and some
+simply don't like to cook. So, finally, I
+gave it a try. To my surprise
+microwaving, like boiling, produces a
+tamale-like texture in two minutes. The
+biggest surprise came long after the
+burger completely cooled off. It was still
+tender, enough that I could cut through it
+with little effort, unlike processed dough
+and batter products which turn hard as a
+rock soon after being microwaved. This
+should tell you something about natural
+ingredients like the ones in my burgers.
+So, thank you to all my microwaving
+folks, you taught me something
+amazing.**
+
                         </p>
                         </Col>
                         <Col size="md-4">

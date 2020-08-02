@@ -73,35 +73,52 @@ function AboutUsInfo() {
                             <p className="aboutUsInfo">
 
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                After cooking in NYC for over 20 years, I decided no more commuting,
-                                I will work where I live in New Jersey.  So I got a job a boys home.
-                                There I made my very first veggie burgers, they didn't look or taste
-                                anything like name brand burgers.  I asked plenty of friends, family,
-                                and co-workers to try them.  To my surprise, I recieved overwhelmingly
-                                positive feedback, including from a bunch of non-vegetable eating
-                                teenage boys!  I was pleasantly surprised and felt I was on to something.
+                                After cooking in NYC for over 20 years, I
+                                decided no more commuting, I will work where I
+                                live in New Jersey. So I got a job at a boys
+                                home. There I made my very first veggie burger;
+                                they didn't look, taste, or smell anything like
+                                name brand burgers. I asked plenty of friends,
+                                family, and co-workers to try them. To my
+                                surprise, I recieved overwhelmingly positive
+                                feedback, including from a bunch of
+                                non-vegetable eating teenage boys! I was
+                                pleasantly surprised and felt I was on to
+                                something.
                     <br></br>
 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    It is funny how the whole opportunity came about.  One young man there at
-                    the boys home was a vegetarian and the meatless meals there were... well,
-                    let's say unappealing, to put it nicely.  This young man kept himself busy
-                    by doing more than his fair share of chores.  He often cleaned most of the
-                    kitchen with little to no help.  Knowing teenagers, you know this is a rare
-                    feat.  In return I showed my appreciation by cooking great vegetarian meals.
-                    Delicious eye popping mushrooms stuffed with garlicky creamed spinach over
-                    roasted vegetables.  Sautéed cauliflower with scallions and fresh lemon
-                    juice, topped with cheese.  This was my way of saying thank you.
+                    It is funny how the whole opportunity
+                    came about. One young man there at the boys
+                    home was a vegetarian and the meatless meals
+                    there were... well, let's say unappealing, to put it
+                    nicely. This young man kept himself busy by
+                    doing more than his fair share of chores. He
+                    often cleaned most of the kitchen with little to
+                    no help. Knowing teenagers, you know this is a
+                    rare feat. In return, I showed my appreciation by
+                    cooking great vegetarian meals: delicious eye
+                    popping mushrooms stuffed with garlicky
+                    creamed spinach over roasted vegetables;
+                    sautéed cauliflower with scallions and fresh
+                    lemon juice, topped with cheese. This was my
+                    way of saying thank you.
+
                     <br></br>
 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    After a
-                    while those special dishes became time consuming, considering I had an
-                    entire staff of 60 plus I had to feed.  I needed something I could reheat
-                    quickly, veggie burgers came to mind.  So I whipped up a batch right off
-                    the top of my head with what I had on hand.  They weren't the time perfected
-                    Will's Amazing Vegan Burgers you have now, those came many years and thousands
-                    of burgers later, but it was the start that led to where I am now.
+                    After a while those special dishes became
+                    time consuming, considering I had an entire
+                    staff of 60 plus I had to feed. I needed
+                    something I could reheat quickly, veggie
+                    burgers came to mind. So I whipped up a batch
+                    right off the top of my head with what I had on
+                    hand. They weren't the time perfected Will's
+                    Amazing Vegan Burgers you have now, those
+                    came many years and thousands of burgers
+                    later, but it was the start that led to where I am
+                    now.
+
 
             </p>
                         </Col>
@@ -130,86 +147,113 @@ function AboutUsInfo() {
                             <p className="specialThanksInfo">
 
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                First, I want to thank my God, life has shown me many things but this
-                                scripture helped me to learn and grow in my walk with God.
+                                First, I want to thank my God. Life has
+shown me many things but this scripture helped
+me to learn and grow in my walk with God:
                     <br></br>
                                 <br></br>
 
-                    Proverbs 3:5-6 (King James Version)<br></br>
-                    Trust in the LORD with all thine heart; and lean not unto thine own
-                    understanding.  In all thy ways acknowledge him, and he shall direct
-                    thy paths.
-                    <br></br>
-                                <br></br>
-
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    These words are simple to understand but not always easy to accomplish.
-                    The more I got tired of banging my head and realizing my ways from his.
-                    The more I started trusting God the more I saw this proverb come to life
-                    in many ways.  It's a relationship that happens when one stands faithfully
-                    with believing.  To all New Jersyans and whoever else, I'm grateful to make
-                    these vegan burgers available.
+                                Proverbs 3:5-6 (King James Version)<br></br>
+Trust in the LORD with all thine heart; and lean
+not unto thine own understanding. In all thy
+ways acknowledge him, and he shall direct thy
+paths.
                     <br></br>
                                 <br></br>
 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Second, I need to thank a whole host of family and friends who helped me.
-                    The following were directly involved in this project of love and life quest.
+                    These words are simple to understand but
+not always easy to accomplish. The more I got
+tired of banging my head and realizing my ways
+from his, the more I started trusting God, the
+more I saw this proverb come to life in many
+ways. It's a relationship that happens when one
+stands faithfully with believing. To all New
+Jerseyans and whoever else, I'm grateful to
+make these vegan burgers available.
+
+                    <br></br>
+                                <br></br>
+
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Second, I need to thank a whole host of
+family and friends who helped me. The
+following were directly involved in this project of
+love and life quest.
                     <br></br>
                                 <br></br>
                             </p>
                             <ul className="specialThanksInfo">
                                 <li>
-                                    Brian Gocher: Helped with designs and brochures and labels.
+                                Brian Gocher: Helped with designs,
+brochures, and labels.
+
                         </li>
                                 <li>
-                                    Jason Manuel: A gracious rock of a friend, who hosted my first
-                                    vegan burger kick-off dinner party and always pointed me in a
-                                    heavenly direction.
+                                Jason Manuel: A gracious rock of a friend,
+who hosted my first vegan burger kick-off
+dinner party and always pointed me in a
+heavenly direction.
                         </li>
                                 <li>
-                                    Lazarus Baptiste: A planet in my solar system, who took pro-quality
-                                    photos of my burgers at that dinner party, as well as help me develop
-                                    a positive believer image.
+                                Lazarus Baptiste: A planet in my solar
+system, who took pro-quality photos of my
+burgers at that dinner party, as well as
+helped me develop a positive believer
+image.
                         </li>
                                 <li>
-                                    Pollyn Horvath: Designed the logo that I don't have to think twice about.
+                                Pollyn Horvath: Designed the logo that I
+don't have to think twice about.
                         </li>
                                 <li>
-                                    Eddie Her: Who blesses me with great book keeping advice.
+                                Eddie Hernandez: Who blesses me with
+great bookkeeping advice.
                         </li>
                                 <li>
-                                    My Family: My brother Duane, my sisters, Cheryl and Vickie(who passed away),
-                                    Yuri, Dennis, and Bobby.  They encouraged me through good times and bad.
+                                My Family: My brother Duane, my sisters,
+Cheryl and Vickie(who passed away), Yuri,
+Dennis, and Bobby. They encouraged me
+through good times and bad.
                         </li>
                                 <li>
-                                    Pastor Rich: A man for whom I'm grateful for, who extended patience with a
-                                    private kitchen to help me get this business off the ground.
+                                Pastor Rich: A man for whom I'm grateful
+for, who extended patience with a private
+kitchen to help me get this business off the
+ground.
                         </li>
                                 <li>
-                                    Hunterdon Land Trust Farmers Market(and other organic farmers): Vendors
-                                    and venues that I work(ed) with and taught me more than I ever expected.
+                                Hunterdon Land Trust Farmers Market (and
+other organic farmers): Vendors and venues
+that I work(ed) with and taught me more
+than I ever expected.
                         </li>
                                 <li>
-                                    Ironbound Hard Cider in Asbury NJ: Who thought me garter scents of community.
+                                Ironbound Hard Cider in Asbury NJ: Who
+taught me the sense of community.
                         </li>
                                 <li>
-                                    NJ Veg Feast: A great venue in featuring organic products.
+                                NJ Vegfest: A great venue featuring organic
+products.
                         </li>
                             </ul>
                             <p className="specialThanksInfo">
                                 <br></br>
                                 <br></br>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Third, I'm thankful for all those believers who helped by praying (it worked!),
-                    and working with me, as my taste-testers/guinea pigs who help shape the final product.
-                    There valuable opinions gave me plenty to consider.
+                    Third, I'm thankful for all those believers
+who helped by praying (it worked!), and working
+with me, as my taste-testers/guinea pigs who
+help shape the final product. Their valuable
+opinions gave me plenty to consider.
                     <br></br>
                                 <br></br>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Last, and certainly not least, I thank Maria, my wife, for standing by through
-                    the ups and downs and for keeping our boys blessed and in order and helping me with
-                    mountains of paperwork.
+                    Last, and certainly not least, I thank Maria,
+my wife, for standing by through the ups and
+downs and for keeping our boys blessed and in
+order and helping me with mountains of
+paperwork.
                     <br></br>
                                 <br></br>
                     Love you all and Thank you,
